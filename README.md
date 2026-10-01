@@ -1,6 +1,5 @@
 # Data_Cleaning_and_Preprocesssing
 
-# Task 1: Data Cleaning & Preprocessing
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas)
@@ -11,7 +10,7 @@
 
 ## 📌 Overview
 
-This repository contains the solution for **Task 1: Data Cleaning & Preprocessing**. Raw real-world datasets often contain missing values, noisy features, outliers, and inconsistent data types that degrade machine learning model performance. 
+This repository contains Data Cleaning and preprocessing Technique. Raw real-world datasets often contain missing values, noisy features, outliers, and inconsistent data types that degrade machine learning model performance. 
 
 The primary objective of this project is to execute an end-to-end data cleaning pipeline to transform raw tabular data into a refined, normalized, and machine-readable format ready for ML algorithm ingestion.
 

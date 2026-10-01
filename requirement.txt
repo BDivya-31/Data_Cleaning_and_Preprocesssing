@@ -1,0 +1,6 @@
+Tools Required:
+Python
+Pandas
+Numpy
+Matplotlib
+Seaborn

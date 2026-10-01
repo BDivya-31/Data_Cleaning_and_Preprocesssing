@@ -1,0 +1,1001 @@
+﻿Customer_Name,Customer_Age,Gender,Customer_Country,Destination_Country,Number_of_Travellers,Number_of_Adults,Number_of_Children,Hotel_Name,Payment_Method,Booking_Status,Total_Trip_Cost,Transportation_Type
+Amir Barrett,18,Female,India,India,6,6,0,Mughal Garden Hotel,UPI,Cancelled,160700,Flight
+Anjali Morales,18,Male,Nepal,India,5,5,0,Cedar Heights,Debit Card,Completed,149100,Flight
+Esme Zhang,18,Female,India,Indonesia,6,3,3,Bali Lotus Villas,UPI,Completed,262000,Flight
+Kenzo Vaughn,18,Male,United Arab Emirates,India,5,3,2,Indus Valley Retreat,Net Banking,Completed,115000,Flight
+Mateo Barrett,18,Male,India,India,7,5,2,Misty Valley Retreat,UPI,Completed,70400,Train
+Milan Zuniga,18,Female,Thailand,India,8,4,4,Tea Garden Retreat,EMI,Completed,127000,Flight
+Mira Reddy,18,Male,India,Singapore,6,3,3,Sentosa Bay Resort,Net Banking,Completed,370200,Flight
+Nina Calderon,18,Female,India,Sri Lanka,3,3,0,Lanka Pearl Resort,UPI,Completed,161500,Flight
+Omari Darwish,18,Female,India,Nepal,7,5,2,Himalayan Heritage Hotel,Net Banking,Completed,220100,Flight
+Alia Pereira,19,Male,India,India,8,5,3,Pink City Residency,UPI,Completed,70800,Train
+Amir Kumar,19,Female,India,India,2,2,0,Desert Moon Resort,Net Banking,Completed,46100,Train
+Ayden Becker,19,Female,United Arab Emirates,India,5,4,1,Kashi Heritage Hotel,Debit Card,Confirmed,181400,Flight
+Bodhi Romero,19,Female,Sri Lanka,India,9,5,4,Coastal Pearl Inn,EMI,Completed,381300,Flight
+Callum Singh,19,Male,India,India,5,3,2,Yoga Valley Inn,EMI,Completed,129900,Flight
+Dante Laurent,19,Female,India,Thailand,8,4,4,Siam Riverside Hotel,Digital Wallet,Completed,273100,Flight
+Esme Abe,19,Male,India,India,4,4,0,Tea Garden Retreat,Debit Card,Cancelled,76000,Car
+Freya Amini,19,Female,India,India,9,4,5,Palm Grove Hotel,EMI,Completed,178800,Train
+Ibrahim Bashir,19,Female,United Arab Emirates,India,12,9,3,Kashmir Blossom Hotel,Debit Card,Completed,184600,Flight
+Isabella Andrade,19,Female,Australia,India,6,4,2,Snow Pine Retreat,Net Banking,Cancelled,163600,Flight
+Kiara Clarke,19,Female,India,India,2,2,0,Harbour View Hotel,Net Banking,Completed,44100,Train
+Leo Nguyen,19,Female,Australia,India,7,5,2,Yoga Valley Inn,EMI,Completed,137700,Flight
+Liam Yamada,19,Female,India,India,11,9,2,Rajputana Grand,Net Banking,Completed,255900,Flight
+Naomi Noorani,19,Male,India,Singapore,5,5,0,Orchard Central Stay,UPI,Completed,357500,Flight
+Nia Hussain,19,Male,India,India,4,4,0,Ladakh Horizon Hotel,Net Banking,Completed,91900,Flight
+Noah Becker,19,Female,India,India,9,7,2,Lakeview Heritage Hotel,UPI,Completed,318100,Flight
+Noah Ferraro,19,Female,Sri Lanka,United Arab Emirates,5,5,0,Desert Pearl Resort,UPI,Completed,439600,Flight
+Noah Foley,19,Female,India,India,5,5,0,Cedar Heights,UPI,Cancelled,72700,Car
+Noor Lin,19,Male,Sri Lanka,France,4,4,0,Montmartre Boutique Inn,Net Banking,Completed,567200,Flight
+Norah Harron,19,Female,Sri Lanka,Thailand,1,1,0,Bangkok Garden Suites,UPI,Completed,92400,Flight
+Priya Andrade,19,Male,India,Indonesia,4,4,0,Ubud Forest Retreat,EMI,Completed,239100,Flight
+Sofia Calderon,19,Male,Singapore,India,5,4,1,Ladakh Horizon Hotel,UPI,Completed,140700,Flight
+Suri Richardson,19,Male,India,India,4,4,0,Fort Kochi Residency,Net Banking,Completed,149500,Flight
+Tara Yilmaz,19,Female,India,India,8,4,4,Tea Hills Resort,EMI,Completed,286300,Flight
+Zaina Mehta,19,Male,India,Thailand,2,2,0,Sukhumvit Grand,UPI,Cancelled,70100,Flight
+Zion Amini,19,Female,India,France,3,3,0,Seine Riverside Hotel,Digital Wallet,Completed,416300,Flight
+Amir Patel,20,Female,Thailand,India,5,5,0,Taj View Residency,Digital Wallet,Completed,131600,Flight
+Amira Pereira,20,Female,India,India,8,4,4,Cedar Heights,EMI,Completed,217800,Train
+Bodhi Wells,20,Female,India,Nepal,5,5,0,Kathmandu Valley Suites,Credit Card,Pending,283200,Flight
+Cruz Nakamura,20,Male,Malaysia,United Arab Emirates,4,3,1,Marina Skyline Hotel,EMI,Completed,175400,Flight
+Idris Qureshi,20,Male,India,India,8,4,4,Ganga Riverside Retreat,Credit Card,Completed,246100,Flight
+Jonah Johansson,20,Male,Thailand,Maldives,1,1,0,Coral Lagoon Resort,EMI,Completed,109000,Flight
+Lara Martens,20,Female,India,India,5,5,0,Rajputana Grand,Debit Card,Completed,93700,Car
+Leila Zuniga,20,Male,India,India,3,3,0,Cedar Heights,Debit Card,Confirmed,113600,Flight
+Malachi Nakamura,20,Female,Nepal,India,6,5,1,Lakeview Heritage Hotel,UPI,Completed,131800,Flight
+Mira Bashir,20,Female,India,India,8,4,4,Fort Kochi Residency,Credit Card,Completed,150900,Train
+Mira Sterling,20,Male,India,Sri Lanka,11,9,2,Colombo Ocean Hotel,Credit Card,Completed,658200,Flight
+Naomi Noorani,20,Male,India,India,,11,0,Mughal Garden Hotel,Debit Card,Completed,333900,Train
+Noah Amini,20,Male,India,Nepal,5,5,0,Himalayan Heritage Hotel,Credit Card,Completed,305400,Flight
+Oscar Vaughn,20,Female,India,India,4,3,1,Ganga Riverside Retreat,Digital Wallet,Completed,84100,Train
+Priya Carter,20,Female,India,India,4,2,2,Temple View Inn,Net Banking,Completed,56800,Train
+Priya Qureshi,20,Female,United Arab Emirates,Nepal,6,6,0,Himalayan Heritage Hotel,UPI,Completed,399100,Flight
+Rohan Kumar,20,Female,India,Sri Lanka,2,2,0,Colombo Ocean Hotel,Credit Card,Confirmed,60200,Flight
+Salma Romero,20,Female,India,Maldives,1,1,0,Azure Island Villas,Digital Wallet,Completed,133500,Flight
+Silas Noorani,20,Male,India,India,12,9,3,Island Bay Resort,UPI,Completed,551500,Flight
+Talia Hayes,20,Male,India,India,8,5,3,Cedar Heights,Digital Wallet,Completed,154600,Flight
+Amara Noorani,21,Female,India,India,6,4,2,Mall Road Retreat,EMI,Completed,171000,Train
+Amir Khan,21,Female,India,India,,7,4,Beas Valley Resort,Digital Wallet,Completed,182900,Flight
+Amir Shepherd,21,Female,India,Sri Lanka,2,2,0,Lanka Pearl Resort,UPI,Completed,49800,Flight
+Amira Harrington,21,Male,Malaysia,India,5,4,1,Aravalli Palace Inn,Digital Wallet,Completed,60500,Flight
+Amira Harrington,21,Male,Australia,India,2,2,0,Riverstone Resort,Net Banking,Completed,38600,Flight
+Andre Nguyen,21,Female,Nepal,India,5,4,1,Snow Pine Retreat,Digital Wallet,Completed,147900,Flight
+Arjun Yilmaz,21,Male,Sri Lanka,India,1,1,0,Himalayan Vista,UPI,Completed,45000,Flight
+Ayden Rivera,21,Male,United States,Thailand,5,5,0,Siam Riverside Hotel,EMI,Completed,291900,Flight
+Chloe Andrade,21,Female,United Arab Emirates,India,5,5,0,Mughal Garden Hotel,EMI,Completed,84700,Flight
+Dante Clarke,21,Female,India,India,15,10,5,Lakeview Heritage Hotel,Net Banking,Completed,286900,Flight
+Ethan Qureshi,21,Male,India,India,2,2,0,Backwater Grand,Credit Card,Completed,65700,Car
+Ezra Kumar,21,Female,India,India,3,3,0,Palm Grove Hotel,UPI,Cancelled,60400,Car
+Felix Becker,21,Female,India,India,7,6,1,Thar Heritage Hotel,UPI,Completed,88500,Train
+Idris O'Connor,21,Female,India,India,9,5,4,Island Bay Resort,EMI,Completed,148500,Train
+Isaac Desai,21,Female,India,India,9,6,3,Taj View Residency,Net Banking,Completed,190200,Flight
+Isaac Joshi,21,Female,Singapore,France,6,4,2,Paris Garden Suites,Digital Wallet,Completed,851300,Flight
+Jasper Khan,21,Male,India,India,1,1,0,Palm Grove Hotel,UPI,Completed,58700,Train
+Jonah Mori,21,Female,India,India,12,10,2,Misty Valley Retreat,UPI,Completed,238300,Train
+Kai Brown,21,Female,United Arab Emirates,India,1,1,0,Snow Pine Retreat,Credit Card,Completed,57800,Flight
+Kai Coleman,21,Female,India,India,9,5,4,Cedar Heights,UPI,Completed,173600,Train
+Liora Hussain,21,Male,India,India,9,5,4,Taj View Residency,UPI,Confirmed,128600,Train
+Luca Shepherd,21,Male,India,India,4,4,0,Yoga Valley Inn,EMI,Completed,68200,Train
+Maaya Aziz,21,Female,Australia,United Kingdom,5,5,0,London Heritage Suites,Net Banking,Completed,632300,Flight
+Mei Pereira,21,Male,India,India,9,5,4,Ladakh Horizon Hotel,UPI,Completed,193600,Train
+Mei Saeed,21,Female,India,Thailand,2,2,0,Bangkok Garden Suites,Debit Card,Completed,123200,Flight
+Mei Sato,21,Male,India,India,5,4,1,Golden Fort Camp,Debit Card,Completed,127700,Car
+Nia Mendez,21,Male,India,India,5,4,1,Himalayan Crown,EMI,Completed,101900,Car
+Nia Yamada,21,Male,India,Nepal,6,4,2,Himalayan Heritage Hotel,UPI,Completed,187700,Flight
+Noah Bakshi,21,Male,United Arab Emirates,France,6,4,2,Montmartre Boutique Inn,Debit Card,Completed,761900,Flight
+Nolan Takahashi,21,Female,India,United Kingdom,8,5,3,Thames Central Hotel,UPI,Completed,926700,Flight
+Saanvi Silva,21,Female,Nepal,India,14,10,4,Coastal Pearl Inn,Debit Card,Completed,392200,Flight
+Silas Castro,21,Female,Canada,India,2,2,0,Kashi Heritage Hotel,EMI,Cancelled,64800,Flight
+Sofia Alston,21,Female,India,India,2,2,0,Mughal Garden Hotel,EMI,Completed,55400,Train
+Talia Romano,21,Female,India,United Kingdom,1,1,0,Kensington Park Inn,Net Banking,Completed,172300,Flight
+Yasmin Reddy,21,Male,India,Thailand,2,2,0,Bangkok Garden Suites,Debit Card,Completed,120100,Flight
+Zayd Brown,21,Male,India,India,1,1,0,Mountain Pass Inn,Digital Wallet,Completed,43100,Car
+Amir Vaughn,22,Female,India,United Arab Emirates,12,7,5,Downtown Dubai Suites,EMI,Completed,949600,Flight
+Andre Calderon,22,Male,India,Indonesia,3,3,0,Seminyak Beach Resort,Credit Card,Cancelled,107400,Flight
+Ari Zhang,22,Female,Sri Lanka,India,7,5,2,Kashmir Blossom Hotel,Debit Card,Completed,208800,Flight
+Felix Desai,22,Female,India,Nepal,5,4,1,Kathmandu Valley Suites,Debit Card,Completed,243900,Flight
+Freya Matthews,22,Male,India,Indonesia,5,5,0,Bali Lotus Villas,Digital Wallet,Completed,408300,Flight
+Hana Salgado,22,Male,Thailand,India,8,4,4,Lakeview Heritage Hotel,UPI,Completed,353200,Flight
+Hiba Silva,22,Female,India,India,8,5,3,Connaught Residency,UPI,Completed,218300,Train
+Idris Nguyen,22,Male,India,Singapore,4,4,0,Marina Garden Hotel,Debit Card,Completed,245800,Flight
+Imani Shepherd,22,Female,India,India,3,2,1,Spice Coast Hotel,Credit Card,Completed,111900,Train
+Jasper Ali,22,Male,India,India,9,6,3,Spice Coast Hotel,Digital Wallet,Completed,103000,Car
+Jasper Bennett,22,Female,Canada,India,6,6,0,Misty Valley Retreat,EMI,Completed,179400,Flight
+Jonah Rivera,22,Female,India,Nepal,9,5,4,Thamel Garden Inn,Net Banking,Confirmed,405100,Flight
+Keenan Fitzgerald,22,Female,India,India,2,2,0,Thar Heritage Hotel,UPI,Completed,27800,Flight
+Kenzo Dubois,22,Female,India,India,9,5,4,Spice Coast Hotel,EMI,Cancelled,107600,Car
+Kiara Laurent,22,Female,Sri Lanka,India,5,5,0,Thar Heritage Hotel,EMI,Cancelled,184100,Flight
+Liam Dubois,22,Female,India,India,5,4,1,Himalayan Mist Hotel,EMI,Completed,121100,Flight
+Lila Foley,22,Male,Malaysia,India,8,5,3,Seabreeze Resort,UPI,Cancelled,205400,Flight
+Maira Mendez,22,Female,India,India,9,5,4,Ganga Ghat Residency,Digital Wallet,Cancelled,201100,Train
+Mateo Johansson,22,Female,India,Sri Lanka,4,4,0,Lanka Pearl Resort,UPI,Cancelled,198100,Flight
+Mei Fitzgerald,22,Male,India,France,2,2,0,Montmartre Boutique Inn,UPI,Cancelled,212800,Flight
+Mei Mori,22,Female,India,India,5,5,0,Gateway Grand,UPI,Completed,204800,Flight
+Micah Becker,22,Female,India,India,13,10,3,Kanchenjunga View Inn,EMI,Completed,308200,Train
+Naomi Morales,22,Male,India,India,8,6,2,Marine Drive Residency,Debit Card,Completed,169500,Train
+Noah Ferraro,22,Male,United Kingdom,India,4,4,0,Cedar Heights,Digital Wallet,Completed,110000,Flight
+Noah Foley,22,Male,India,Thailand,5,4,1,Sukhumvit Grand,EMI,Completed,319700,Flight
+Noah Johansson,22,Female,India,Singapore,4,4,0,Orchard Central Stay,EMI,Completed,366600,Flight
+Noor Reddy,22,Male,India,India,9,5,4,Kashmir Blossom Hotel,EMI,Completed,249400,Train
+Oliver Gonzalez,22,Female,India,India,2,2,0,Western Ghats Inn,UPI,Completed,19700,Car
+Rami Salgado,22,Male,United Kingdom,India,4,4,0,Coral Sands Hotel,Net Banking,Confirmed,153600,Flight
+Rami Thompson,22,Male,India,India,2,2,0,Ganga Riverside Retreat,Digital Wallet,Completed,57300,Train
+Rohan Silva,22,Female,India,India,2,2,0,Coral Sands Hotel,Debit Card,Completed,40500,Car
+Saanvi Laurent,22,Male,India,India,9,6,3,Lakeview Heritage Hotel,Digital Wallet,Completed,178300,Train
+Salma Gonzalez,22,Female,India,Sri Lanka,8,4,4,Colombo Ocean Hotel,UPI,Completed,473800,Flight
+Suri Davis,22,Female,United States,Thailand,2,2,0,Bangkok Garden Suites,Digital Wallet,Completed,99100,Flight
+Tara Bashir,22,Female,India,United Kingdom,4,2,2,London Heritage Suites,UPI,Completed,356700,Flight
+Thiago Bennett,22,Male,India,United Arab Emirates,8,5,3,Downtown Dubai Suites,Net Banking,Completed,292400,Flight
+Zara Darwish,22,Female,India,United Arab Emirates,3,3,0,Desert Pearl Resort,UPI,Confirmed,162800,Flight
+Alina Duarte,23,Male,India,India,5,5,0,Palm Grove Hotel,UPI,Confirmed,118600,Train
+Amara Clarke,23,Male,India,United Arab Emirates,7,5,2,Downtown Dubai Suites,UPI,Completed,312800,Flight
+Amira Silva,23,Male,United Arab Emirates,India,1,1,0,Tea Garden Retreat,UPI,Completed,40800,Flight
+Andre Romano,23,Female,India,Indonesia,5,4,1,Bali Lotus Villas,Credit Card,Completed,318000,Flight
+Ari Yamada,23,Female,India,Sri Lanka,2,2,0,Lanka Pearl Resort,UPI,Cancelled,53600,Flight
+Callum Becker,23,Female,Sri Lanka,India,9,6,3,Port Blair Retreat,Digital Wallet,Completed,401800,Flight
+Callum Moreira,23,Male,India,India,5,5,0,Tea Hills Resort,Net Banking,Completed,54200,Train
+Chloe Lin,23,Male,United Kingdom,United Arab Emirates,12,10,2,Desert Pearl Resort,Credit Card,Completed,771800,Flight
+Cruz Nakamura,23,Male,India,Sri Lanka,8,5,3,Cinnamon Garden Stay,Debit Card,Completed,218300,Flight
+Elias Nair,23,Male,India,India,9,5,4,Indus Valley Retreat,UPI,Completed,174000,Car
+Elias Ocampo,23,Female,India,India,1,1,0,Snow Pine Retreat,Digital Wallet,Cancelled,27900,Car
+Ethan Stewart,23,Female,India,India,2,1,1,Connaught Residency,Net Banking,Completed,21800,Car
+Imani Calderon,23,Female,India,India,5,5,0,Dal Lake Residency,Digital Wallet,Completed,159700,Train
+Ivy Takahashi,23,Male,India,India,2,2,0,Desert Moon Resort,UPI,Completed,52200,Train
+Kairo Hollis,23,Female,Canada,India,8,5,3,Mountain Pass Inn,EMI,Cancelled,254200,Flight
+Kairo Noorani,23,Male,India,India,8,5,3,Himalayan Vista,Net Banking,Cancelled,249400,Train
+Kenzo Romero,23,Male,India,India,12,7,5,Golden Fort Camp,Digital Wallet,Cancelled,98400,Car
+Kiara Duarte,23,Female,United Arab Emirates,India,8,4,4,Thar Heritage Hotel,Credit Card,Completed,332100,Flight
+Lara Atkinson,23,Female,India,India,6,6,0,Gateway Grand,UPI,Completed,98900,Flight
+Leila Mori,23,Male,India,Thailand,2,2,0,Siam Riverside Hotel,UPI,Completed,77700,Flight
+Lila Foley,23,Female,Malaysia,India,8,5,3,Yamuna Heritage Inn,UPI,Completed,233000,Flight
+Liora Sato,23,Female,India,Singapore,7,5,2,Orchard Central Stay,Digital Wallet,Pending,525300,Flight
+Luca Atkinson,23,Female,India,United Kingdom,7,3,4,Kensington Park Inn,Net Banking,Completed,845700,Flight
+Luca Ocampo,23,Female,India,India,9,5,4,Indus Valley Retreat,UPI,Completed,217900,Car
+Mateo Hussain,23,Female,India,India,1,1,0,Taj View Residency,Debit Card,Completed,26000,Car
+Mei Rivera,23,Male,India,India,9,5,4,Cedar Heights,Digital Wallet,Completed,234000,Train
+Mia Castro,23,Female,India,India,5,4,1,Lakeview Heritage Hotel,Debit Card,Completed,179500,Car
+Mia Nair,23,Female,India,India,5,5,0,Mall Road Retreat,EMI,Completed,70400,Car
+Mia Stewart,23,Male,United States,Nepal,5,4,1,Thamel Garden Inn,EMI,Cancelled,248100,Flight
+Nia Nair,23,Male,Australia,Thailand,8,6,2,Bangkok Garden Suites,Credit Card,Completed,459900,Flight
+Nia Romano,23,Female,India,India,12,10,2,Dal Lake Residency,EMI,Completed,247400,Train
+Niko Singh,23,Male,India,Thailand,5,5,0,Bangkok Garden Suites,Digital Wallet,Completed,285200,Flight
+Noah Khan,23,Male,Sri Lanka,United Kingdom,9,9,0,Thames Central Hotel,UPI,Completed,1209200,Flight
+Nolan Mendez,23,Female,Nepal,Thailand,4,4,0,Bangkok Garden Suites,UPI,Completed,169800,Flight
+Norah Schneider,23,Female,India,India,5,3,2,Indus Valley Retreat,EMI,Cancelled,56600,Train
+Reina Ivanova,23,Male,India,United Arab Emirates,2,2,0,Desert Pearl Resort,UPI,Completed,182500,Flight
+Rohan Wells,23,Female,India,Nepal,15,11,4,Kathmandu Valley Suites,Debit Card,Confirmed,473700,Flight
+Silas Shepherd,23,Female,India,United Arab Emirates,2,2,0,Desert Pearl Resort,UPI,Completed,81100,Flight
+Sofia Darwish,23,Female,India,United Kingdom,2,2,0,London Heritage Suites,UPI,Completed,251100,Flight
+Sofia Kowalski,23,Female,India,India,3,3,0,Royal Courtyard Udaipur,Credit Card,Completed,119300,Car
+Yasmin Schneider,23,Female,India,United Kingdom,1,1,0,Thames Central Hotel,Debit Card,Confirmed,135300,Flight
+Zaina Flynn,23,Female,India,France,8,6,2,Montmartre Boutique Inn,Digital Wallet,Completed,1075500,Flight
+Zaina Rahman,23,Female,India,India,6,6,0,Coastal Pearl Inn,UPI,Completed,138700,Car
+Amira Romero,24,Male,India,India,5,3,2,Western Ghats Inn,UPI,Confirmed,146900,Flight
+Andre Hussain,24,Male,India,India,2,2,0,Tea Garden Retreat,Net Banking,Cancelled,56300,Train
+Anjali Harrington,24,Male,Australia,United Kingdom,8,5,3,Thames Central Hotel,Net Banking,Completed,717100,Flight
+Anjali Nair,24,Female,India,France,4,4,0,Seine Riverside Hotel,Debit Card,Confirmed,498000,Flight
+Avani Morales,24,Male,Thailand,Singapore,5,3,2,Sentosa Bay Resort,Digital Wallet,Completed,448700,Flight
+Ayden Richardson,24,Female,Canada,India,5,,2,Desert Moon Resort,UPI,Completed,86100,Flight
+Chloe Morales,24,Female,India,India,3,3,0,Misty Valley Retreat,Net Banking,Cancelled,56300,Flight
+Elias Hussain,24,Female,India,India,4,4,0,Seabreeze Resort,Net Banking,Completed,112500,Train
+Elias Kim,24,Male,India,India,7,7,0,Spice Coast Hotel,EMI,Completed,138700,Train
+Elijah Lambert,24,Male,India,Indonesia,1,1,0,Ubud Forest Retreat,Credit Card,Cancelled,94900,Flight
+Eren Bennett,24,Female,India,United Kingdom,5,5,0,Kensington Park Inn,Digital Wallet,Confirmed,681400,Flight
+Gemma Becker,24,Male,India,India,6,3,3,Port Blair Retreat,Credit Card,Cancelled,214600,Train
+Jace Davis,24,Female,United States,India,9,5,4,Himalayan Mist Hotel,Debit Card,Completed,277500,Flight
+Keenan Kim,24,Female,India,India,12,6,6,Rajputana Grand,Digital Wallet,Completed,229700,Train
+Keenan Noorani,24,Male,Thailand,Maldives,8,5,3,Coral Lagoon Resort,Digital Wallet,Completed,553500,Flight
+Lara Singh,24,Male,Sri Lanka,India,8,6,2,Harbour View Hotel,Credit Card,Completed,388100,Flight
+Lyra Schneider,24,Male,Canada,Thailand,5,5,0,Siam Riverside Hotel,UPI,Completed,293300,Flight
+Maaya Rivera,24,Male,India,United Arab Emirates,1,1,0,Downtown Dubai Suites,Net Banking,Completed,50200,Flight
+Naomi Pereira,24,Female,Sri Lanka,India,9,5,4,Spice Coast Hotel,Debit Card,Completed,179400,Flight
+Niko Wells,24,Male,India,India,8,4,4,Mountain Pass Inn,Credit Card,Completed,175400,Train
+Noah Johansson,24,Female,India,India,4,4,0,Capital Grand Hotel,Credit Card,Completed,70100,Car
+Sofia Kumar,24,Female,India,United Arab Emirates,5,5,0,Downtown Dubai Suites,Debit Card,Cancelled,304100,Flight
+Yasmin Banerjee,24,Male,India,India,8,6,2,Ganga Ghat Residency,Credit Card,Completed,76300,Train
+Yusuf Rossi,24,Male,India,India,6,4,2,Chinar Grand,Debit Card,Completed,233800,Flight
+Zaina Becker,24,Female,India,Sri Lanka,5,5,0,Lanka Pearl Resort,Credit Card,Completed,132400,Flight
+Zayd Lin,24,Female,United Kingdom,India,2,1,1,Palm Grove Hotel,Credit Card,Completed,61000,Flight
+Aisha Johansson,25,Male,India,India,2,2,0,Beas Valley Resort,UPI,Completed,27200,Car
+Amara Fontaine,25,Female,India,India,7,5,2,Ganga Riverside Retreat,Credit Card,Completed,104200,Train
+Ava Ocampo,25,Female,India,India,3,2,1,Ganga Riverside Retreat,Debit Card,Completed,74100,Train
+Ayden Abdul,25,Female,India,India,2,2,0,Riverstone Resort,Credit Card,Completed,38700,Car
+Ayden Lambert,25,Female,India,India,8,4,4,Harbour View Hotel,UPI,Completed,96300,Train
+Ayden Romano,25,Male,India,India,8,4,4,Temple View Inn,Net Banking,Completed,139800,Train
+Bodhi Martens,25,Male,India,India,5,5,0,Gateway Grand,UPI,Completed,193700,Train
+Elijah Moreira,25,Male,Canada,India,6,4,2,Lakeview Heritage Hotel,EMI,Completed,193200,Flight
+Elina Nguyen,25,Female,United States,India,2,2,0,Cedar Heights,Debit Card,Completed,70700,Flight
+Elise Dubois,25,Female,India,Thailand,6,4,2,Sukhumvit Grand,Debit Card,Completed,202300,Flight
+Elise Patel,25,Male,India,India,8,5,3,Royal Courtyard Udaipur,Digital Wallet,Completed,240700,Train
+Ethan Pereira,25,Female,United States,India,4,3,1,Chinar Grand,Digital Wallet,Confirmed,154300,Flight
+Freya Rivera,25,Female,India,Maldives,9,5,4,Coral Lagoon Resort,Net Banking,Completed,931600,Flight
+Freya Rossi,25,Male,India,United Arab Emirates,2,2,0,Desert Pearl Resort,Credit Card,Completed,169400,Flight
+Gemma Sato,25,Male,United Arab Emirates,Nepal,7,5,2,Kathmandu Valley Suites,Credit Card,Completed,291500,Flight
+Gemma Yilmaz,25,Male,India,India,9,5,4,Ladakh Horizon Hotel,EMI,Completed,133800,Train
+Ibrahim Brown,25,Female,India,India,2,2,0,Island Bay Resort,Net Banking,Completed,58600,Train
+Jasper Thompson,25,Female,Singapore,France,8,5,3,Seine Riverside Hotel,UPI,Confirmed,1041500,Flight
+Kairo Davis,25,Female,India,United Kingdom,11,6,5,Thames Central Hotel,EMI,Cancelled,1033400,Flight
+Kiara Banerjee,25,Female,India,Nepal,4,4,0,Thamel Garden Inn,UPI,Completed,205700,Flight
+Leila Yamada,25,Male,Malaysia,India,2,2,0,Gateway Grand,Digital Wallet,Cancelled,71200,Flight
+Liam Becker,25,Female,India,India,5,4,1,Harbour View Hotel,UPI,Cancelled,216700,Train
+Lila Yamada,25,Female,India,India,9,5,4,Cedar Heights,UPI,Cancelled,80600,Train
+Maira Joshi,25,Male,India,India,8,4,4,Backwater Grand,EMI,Cancelled,239700,Flight
+Mateo Khan,25,Female,Sri Lanka,India,9,9,0,Port Blair Retreat,Digital Wallet,Cancelled,357800,Flight
+Milan Reddy,25,Male,United Kingdom,India,2,1,1,Capital Grand Hotel,UPI,Cancelled,29700,Flight
+Mira Stewart,25,Female,India,Sri Lanka,6,5,1,Lanka Pearl Resort,Credit Card,Completed,403300,Flight
+Nina Persaud,25,Female,United Kingdom,India,6,4,2,Connaught Residency,UPI,Completed,184200,Flight
+Nolan Mohammed,25,Female,India,India,6,4,2,Himalayan Vista,UPI,Completed,217000,Train
+Nolan Persaud,25,Female,India,Indonesia,5,3,2,Bali Lotus Villas,EMI,Completed,210400,Flight
+Oscar Ferraro,25,Female,Malaysia,India,9,5,4,Riverstone Resort,EMI,Completed,136300,Flight
+Reina Duarte,25,Female,India,India,2,2,0,Indus Valley Retreat,EMI,Completed,68400,Train
+Reina Lim,25,Male,India,India,2,2,0,Dal Lake Residency,UPI,Confirmed,36500,Flight
+Remy Reddy,25,Male,Canada,India,5,5,0,Coral Sands Hotel,Digital Wallet,Cancelled,157300,Flight
+Zaina Rahman,25,Female,India,India,4,4,0,Cedar Heights,Digital Wallet,Completed,98100,Car
+Zaina Yamada,25,Male,United Arab Emirates,India,3,3,0,Cedar Heights,Digital Wallet,Cancelled,41900,Flight
+Zara Hollis,25,Female,Canada,India,4,4,0,Coastal Pearl Inn,Net Banking,Confirmed,144600,Flight
+Aisha Pereira,26,Male,Sri Lanka,India,4,4,0,Tea Garden Retreat,UPI,Completed,116300,Flight
+Amir Kowalski,26,Female,United States,India,2,2,0,Mughal Garden Hotel,UPI,Completed,19800,Flight
+Ari Pereira,26,Male,Sri Lanka,France,5,3,2,Montmartre Boutique Inn,Net Banking,Cancelled,813200,Flight
+Arjun Davis,26,Female,India,India,1,1,0,Cedar Heights,EMI,Completed,43500,Car
+Chloe Ivanova,26,Female,India,India,8,6,2,Fort Kochi Residency,UPI,Completed,205800,Train
+Dhruv Verma,26,Male,India,India,2,2,0,Himalayan Crown,Debit Card,Completed,49100,Car
+Elina Johansson,26,Female,India,India,8,5,3,Lakeview Heritage Hotel,Net Banking,Completed,136400,Flight
+Elise Harron,26,Female,India,India,3,2,1,Tea Hills Resort,Digital Wallet,Completed,71900,Train
+Esme Aziz,26,Male,India,India,3,3,0,Himalayan Mist Hotel,Credit Card,Completed,107900,Car
+Ezra Morales,26,Female,Canada,India,8,4,4,Thar Heritage Hotel,UPI,Cancelled,210500,Flight
+Isaac Flynn,26,Female,United Kingdom,India,2,2,0,Taj View Residency,UPI,Cancelled,40000,Flight
+Ivy Alston,26,Female,India,India,9,5,4,Amber Heritage Stay,EMI,Completed,193100,Car
+Kairo Sterling,26,Male,India,India,4,4,0,Golden Fort Camp,EMI,Completed,97600,Flight
+Kian Bashir,26,Male,India,India,6,3,3,Tea Garden Retreat,UPI,Cancelled,139400,Train
+Kiara Andrade,26,Female,India,India,2,2,0,Snow Pine Retreat,Net Banking,Cancelled,33000,Car
+Kiara Hollis,26,Female,India,India,2,2,0,Pink City Residency,Digital Wallet,Completed,53700,Flight
+Mateo Abdul,26,Male,Canada,Singapore,6,3,3,Sentosa Bay Resort,UPI,Completed,269300,Flight
+Nolan Kapoor,26,Female,India,France,7,5,2,Montmartre Boutique Inn,UPI,Completed,1107900,Flight
+Noor Noorani,26,Female,Thailand,India,7,6,1,Gateway Grand,EMI,Confirmed,154900,Flight
+Priya Kumar,26,Male,India,India,5,5,0,Ganga Ghat Residency,EMI,Cancelled,136800,Car
+Reina Hayes,26,Female,United States,India,,5,2,Lakeview Heritage Hotel,EMI,Confirmed,246600,Flight
+Ronan Schneider,26,Male,India,India,9,6,3,Cedar Heights,UPI,Completed,301200,Flight
+Saanvi Dubois,26,Female,India,Singapore,9,5,4,Orchard Central Stay,Debit Card,Cancelled,480200,Flight
+Salma Saeed,26,Female,Canada,India,9,5,4,Beas Valley Resort,Digital Wallet,Completed,252200,Flight
+Zaina Desai,26,Male,Singapore,India,1,1,0,Island Bay Resort,UPI,Completed,65500,Flight
+Zara Lambert,26,Male,India,India,2,2,0,Mall Road Retreat,Debit Card,Completed,37000,Car
+Alia Matthews,27,Male,Thailand,Indonesia,6,3,3,Seminyak Beach Resort,UPI,Cancelled,469500,Flight
+Anaya Coleman,27,Female,Thailand,United Arab Emirates,5,2,3,Marina Skyline Hotel,UPI,Cancelled,262600,Flight
+Andre Castro,27,Female,India,India,6,4,2,Chinar Grand,Net Banking,Completed,177400,Train
+Anjali Banerjee,27,Male,India,India,4,4,0,Heritage Delhi Inn,Debit Card,Completed,102500,Car
+Anjali Schneider,27,Female,India,France,6,4,2,Paris Garden Suites,Digital Wallet,Completed,480500,Flight
+Caleb Yamada,27,Female,India,United Kingdom,2,1,1,Thames Central Hotel,Credit Card,Completed,217300,Flight
+Cruz Atkinson,27,Male,India,Thailand,8,5,3,Siam Riverside Hotel,UPI,Cancelled,590800,Flight
+Cruz Lambert,27,Male,India,India,1,1,0,Temple View Inn,UPI,Completed,27500,Car
+Dante Fontaine,27,Female,India,India,2,2,0,Snow Pine Retreat,EMI,Completed,46600,Flight
+Dante Sterling,27,Male,India,India,2,2,0,Kashi Heritage Hotel,Digital Wallet,Completed,21600,Car
+Dhruv Ivanova,27,Female,India,India,6,3,3,Misty Valley Retreat,Credit Card,Completed,167600,Flight
+Esme Flynn,27,Male,Thailand,France,2,2,0,Paris Garden Suites,UPI,Completed,182600,Flight
+Ezra Patel,27,Female,India,India,4,4,0,Mughal Garden Hotel,UPI,Completed,61800,Flight
+Indira Romano,27,Male,India,Nepal,7,5,2,Thamel Garden Inn,Credit Card,Completed,182500,Flight
+Indira Shukla,27,Female,India,India,6,4,2,Seabreeze Resort,Credit Card,Completed,57100,Train
+Isabella Nair,27,Female,India,India,2,2,0,Cedar Heights,Credit Card,Completed,25300,Car
+Isabella Rivera,27,Male,United States,India,2,1,1,Tea Hills Resort,Net Banking,Completed,40400,Flight
+Jasper Rahman,27,Female,India,India,5,5,0,Marine Drive Residency,EMI,Completed,102800,Train
+Jonah Noorani,27,Female,India,India,11,11,0,Mughal Garden Hotel,UPI,Completed,325000,Train
+Kenzo Darwish,27,Male,India,India,5,5,0,Himalayan Mist Hotel,UPI,Completed,116200,Car
+Lara Schneider,27,Male,India,India,4,3,1,Himalayan Vista,EMI,Completed,83000,Train
+Leila Nakamura,27,Male,India,Sri Lanka,8,5,3,Cinnamon Garden Stay,Digital Wallet,Completed,453600,Flight
+Liora Thompson,27,Female,India,India,5,4,1,Taj View Residency,Credit Card,Cancelled,135200,Flight
+Mateo Martens,27,Female,United States,United Arab Emirates,8,8,0,Desert Pearl Resort,Digital Wallet,Confirmed,505000,Flight
+Mira Andrade,27,Female,India,India,4,4,0,Kashi Heritage Hotel,Digital Wallet,Completed,74600,Car
+Nia Kassem,27,Female,India,India,2,2,0,Yamuna Heritage Inn,UPI,Confirmed,49300,Train
+Nina Walker,27,Female,India,Sri Lanka,8,5,3,Colombo Ocean Hotel,UPI,Completed,322000,Flight
+Nolan Saeed,27,Male,India,Thailand,4,4,0,Siam Riverside Hotel,UPI,Completed,174800,Flight
+Noor Walker,27,Female,Malaysia,India,1,1,0,Heritage Delhi Inn,UPI,Completed,34700,Flight
+Oscar Ivanova,27,Female,Canada,India,2,2,0,Indus Valley Retreat,Digital Wallet,Confirmed,62200,Flight
+Rohan Persaud,27,Female,India,India,9,6,3,Amber Heritage Stay,Debit Card,Completed,120500,Flight
+Rohan Sato,27,Male,India,India,9,9,0,Himalayan Crown,UPI,Cancelled,201300,Train
+Saanvi Rivera,27,Male,Thailand,India,9,5,4,Western Ghats Inn,UPI,Completed,172400,Flight
+Salma Harron,27,Female,Australia,Nepal,5,4,1,Kathmandu Valley Suites,EMI,Completed,188800,Flight
+Sofia Richardson,27,Female,Sri Lanka,United Arab Emirates,8,4,4,Downtown Dubai Suites,Debit Card,Completed,755300,Flight
+Tara Chen,27,Female,India,India,6,4,2,Dal Lake Residency,Net Banking,Completed,198700,Train
+Thiago Coleman,27,Male,Thailand,Nepal,2,2,0,Kathmandu Valley Suites,UPI,Completed,128100,Flight
+Yusuf Takahashi,27,Female,India,United Arab Emirates,9,5,4,Desert Pearl Resort,EMI,Cancelled,777400,Flight
+Ari Hollis,28,Female,India,India,,5,2,Aravalli Palace Inn,Digital Wallet,Completed,90700,Car
+Arjun Morales,28,Male,India,India,14,10,4,Riverstone Resort,Debit Card,Completed,220600,Car
+Elise Johansson,28,Male,India,Indonesia,8,4,4,Seminyak Beach Resort,Digital Wallet,Confirmed,611800,Flight
+Eren Shah,28,Female,India,Sri Lanka,5,5,0,Cinnamon Garden Stay,Digital Wallet,Completed,347200,Flight
+Esme Noorani,28,Male,India,India,4,2,2,Capital Grand Hotel,UPI,Completed,62700,Flight
+Freya Martens,28,Female,United States,India,8,4,4,Royal Courtyard Udaipur,UPI,Completed,213600,Flight
+Gemma Pereira,28,Male,India,India,2,2,0,Himalayan Crown,UPI,Cancelled,66100,Flight
+Hiba Reyes,28,Male,India,India,2,2,0,Ganga Ghat Residency,Net Banking,Completed,70200,Train
+Ibrahim Shukla,28,Male,India,India,1,1,0,Snow Pine Retreat,UPI,Completed,41300,Flight
+Idris Stewart,28,Female,India,India,1,1,0,Aravalli Palace Inn,EMI,Completed,33600,Car
+Imani Harron,28,Female,India,India,1,1,0,Spice Coast Hotel,EMI,Completed,55000,Flight
+Isabella Bennett,28,Female,Thailand,India,9,5,4,Spice Coast Hotel,UPI,Cancelled,299200,Flight
+Ivy Ocampo,28,Male,India,India,2,2,0,Western Ghats Inn,Credit Card,Completed,41100,Flight
+Lara Harron,28,Female,Australia,India,6,6,0,Royal Courtyard Udaipur,UPI,Completed,148200,Flight
+Lila Romano,28,Female,Malaysia,India,9,6,3,Kanchenjunga View Inn,Debit Card,Completed,218200,Flight
+Liora Kumar,28,Female,India,France,5,5,0,Paris Garden Suites,Digital Wallet,Cancelled,425900,Flight
+Maira Ivanova,28,Female,Canada,India,5,4,1,Heritage Delhi Inn,Net Banking,Completed,205600,Flight
+Nia Stewart,28,Male,India,India,5,5,0,Harbour View Hotel,UPI,Completed,132700,Train
+Noor Vaughn,28,Male,India,Nepal,1,1,0,Himalayan Heritage Hotel,EMI,Confirmed,91800,Flight
+Norah Sato,28,Female,India,India,2,1,1,Tea Garden Retreat,UPI,Completed,19900,Car
+Oliver Dubois,28,Female,United Arab Emirates,Nepal,2,1,1,Kathmandu Valley Suites,Credit Card,Completed,44700,Flight
+Omari Abe,28,Female,India,India,6,4,2,Coastal Pearl Inn,UPI,Completed,172400,Car
+Saanvi Abe,28,Male,India,India,2,2,0,Himalayan Vista,Digital Wallet,Cancelled,82000,Train
+Saanvi Joshi,28,Female,United States,India,8,5,3,Riverstone Resort,Credit Card,Completed,234100,Flight
+Sofia Pereira,28,Female,United Kingdom,India,9,5,4,Ganga Riverside Retreat,UPI,Completed,113400,Flight
+Zara Bakshi,28,Female,United Arab Emirates,India,5,5,0,Island Bay Resort,UPI,Completed,148900,Flight
+Aisha Banerjee,29,Female,India,India,5,3,2,Misty Valley Retreat,Debit Card,Pending,50800,Train
+Amir Ivanova,29,Male,India,India,5,5,0,Fort Kochi Residency,UPI,Cancelled,124700,Flight
+Ava Lim,29,Female,India,India,2,2,0,Harbour View Hotel,Net Banking,Completed,74900,Flight
+Bodhi Singh,29,Female,India,India,5,5,0,Kashmir Blossom Hotel,Digital Wallet,Completed,259500,Flight
+Dhruv Matthews,29,Female,India,Sri Lanka,7,5,2,Cinnamon Garden Stay,Debit Card,Cancelled,332500,Flight
+Eren Johansson,29,Male,India,Indonesia,5,5,0,Seminyak Beach Resort,UPI,Completed,223200,Flight
+Ethan Abdul,29,Female,United States,Sri Lanka,5,5,0,Lanka Pearl Resort,UPI,Cancelled,244700,Flight
+Ibrahim Bakshi,29,Male,India,India,9,6,3,Snow Pine Retreat,EMI,Completed,128400,Train
+Idris Patel,29,Male,India,Nepal,2,2,0,Himalayan Heritage Hotel,Credit Card,Completed,84200,Flight
+Kenzo Carter,29,Female,India,India,7,4,3,Coastal Pearl Inn,Digital Wallet,Cancelled,171500,Flight
+Kian Dubois,29,Female,India,India,9,6,3,Seabreeze Resort,Debit Card,Completed,226900,Car
+Kiara Coleman,29,Male,India,India,9,5,4,Himalayan Mist Hotel,Net Banking,Cancelled,127600,Train
+Mateo Schneider,29,Female,India,Sri Lanka,3,3,0,Colombo Ocean Hotel,Credit Card,Completed,170600,Flight
+Mei Ivanova,29,Female,India,India,5,5,0,Cedar Heights,Debit Card,Completed,102400,Train
+Mia Rossi,29,Female,India,Nepal,5,5,0,Thamel Garden Inn,Debit Card,Completed,197800,Flight
+Noor Abdul,29,Male,India,India,4,2,2,Yoga Valley Inn,Digital Wallet,Cancelled,68000,Train
+Norah Nair,29,Female,India,India,9,6,3,Seabreeze Resort,Debit Card,Completed,105200,Car
+Omari Joshi,29,Male,Australia,United Arab Emirates,5,5,0,Downtown Dubai Suites,EMI,Confirmed,441600,Flight
+Rohan O'Connor,29,Female,Canada,India,14,10,4,Amber Heritage Stay,UPI,Completed,271300,Flight
+Rohan Patel,29,Female,India,India,12,11,1,Gateway Grand,Debit Card,Completed,558600,Train
+Saanvi Saeed,29,Male,United States,Thailand,6,5,1,Bangkok Garden Suites,UPI,Completed,260400,Flight
+Salma Shukla,29,Male,Australia,India,5,2,3,Tea Garden Retreat,UPI,Completed,160200,Flight
+Yusuf Reddy,29,Female,United Arab Emirates,Maldives,5,4,1,Azure Island Villas,Credit Card,Cancelled,523800,Flight
+Zaina Bennett,29,Male,India,India,1,1,0,Pink City Residency,Credit Card,Completed,30200,Flight
+Zayd Mohammed,29,Female,India,India,11,10,1,Coral Sands Hotel,Credit Card,Cancelled,370300,Train
+Aisha Kim,30,Male,Sri Lanka,India,3,3,0,Kashi Heritage Hotel,Debit Card,Cancelled,83500,Flight
+Avani Vaughn,30,Female,Singapore,India,6,5,1,Backwater Grand,Digital Wallet,Cancelled,183500,Flight
+Ayden Martens,30,Female,India,Indonesia,14,10,4,Bali Lotus Villas,Credit Card,Cancelled,1030500,Flight
+Cruz Andrade,30,Male,India,Sri Lanka,11,11,0,Colombo Ocean Hotel,UPI,Completed,436100,Flight
+Hana Patel,30,Female,India,Indonesia,3,2,1,Seminyak Beach Resort,Debit Card,Completed,312600,Flight
+Ivy Kassem,30,Male,India,India,7,5,2,Kashi Heritage Hotel,Digital Wallet,Completed,135000,Train
+Ivy Rivera,30,Female,India,India,5,5,0,Harbour View Hotel,Net Banking,Completed,71300,Train
+Mei Ferraro,30,Male,Nepal,India,3,1,2,Yamuna Heritage Inn,Credit Card,Confirmed,84700,Flight
+Mei Shukla,30,Female,India,India,3,3,0,Mountain Pass Inn,Credit Card,Completed,116800,Car
+Nia Abdul,30,Female,India,India,1,1,0,Chinar Grand,Debit Card,Completed,34300,Flight
+Nina Clarke,30,Male,India,India,4,4,0,Ladakh Horizon Hotel,EMI,Confirmed,216800,Flight
+Noah Shepherd,30,Male,India,India,2,1,1,Thar Heritage Hotel,EMI,Cancelled,52200,Flight
+Noor Reddy,30,Female,India,United Kingdom,5,5,0,Kensington Park Inn,Debit Card,Confirmed,530100,Flight
+Omari Lim,30,Female,India,Sri Lanka,12,9,3,Cinnamon Garden Stay,UPI,Confirmed,341000,Flight
+Remy Stewart,30,Female,India,Maldives,8,6,2,Maldives Pearl Retreat,Net Banking,Completed,550100,Flight
+Ronan Desai,30,Male,Australia,India,5,4,1,Tea Garden Retreat,EMI,Completed,112200,Flight
+Suri Zuniga,30,Female,India,Nepal,5,5,0,Kathmandu Valley Suites,EMI,Completed,168000,Flight
+Yasmin Patel,30,Female,Sri Lanka,United Arab Emirates,7,5,2,Marina Skyline Hotel,Debit Card,Confirmed,430500,Flight
+Yasmin Reyes,30,Male,India,India,2,2,0,Golden Fort Camp,Credit Card,Completed,22800,Train
+Yusuf Martens,30,Female,Nepal,India,4,4,0,Western Ghats Inn,Debit Card,Cancelled,95400,Flight
+Amara Hussain,31,Male,India,India,2,2,0,Capital Grand Hotel,Debit Card,Confirmed,87400,Flight
+Ava Desai,31,Female,Australia,India,4,3,1,Golden Fort Camp,Digital Wallet,Completed,143000,Flight
+Ayden Delgado,31,Male,India,United Arab Emirates,9,5,4,Downtown Dubai Suites,Debit Card,Completed,442500,Flight
+Elijah Reddy,31,Female,India,India,8,5,3,Island Bay Resort,UPI,Completed,261000,Car
+Elina Vaughn,31,Female,United Arab Emirates,Indonesia,9,6,3,Ubud Forest Retreat,UPI,Completed,669800,Flight
+Esme Nguyen,31,Female,India,Thailand,5,3,2,Siam Riverside Hotel,UPI,Completed,394200,Flight
+Farah Reyes,31,Male,Canada,Sri Lanka,5,4,1,Lanka Pearl Resort,EMI,Completed,137700,Flight
+Kai Shukla,31,Female,Singapore,India,13,10,3,Amber Heritage Stay,EMI,Completed,314200,Flight
+Maira Vaughn,31,Female,Nepal,India,5,3,2,Western Ghats Inn,Digital Wallet,Completed,130100,Flight
+Mei Morales,31,Female,India,France,5,4,1,Paris Garden Suites,Net Banking,Completed,560700,Flight
+Mira Ferraro,31,Female,Australia,India,4,4,0,Beas Valley Resort,UPI,Completed,137300,Flight
+Nia Harrington,31,Male,India,Maldives,7,5,2,Coral Lagoon Resort,UPI,Completed,590800,Flight
+Oscar Andrade,31,Female,India,India,9,5,4,Misty Valley Retreat,UPI,Completed,233200,Flight
+Reina Delgado,31,Male,India,India,4,4,0,Yoga Valley Inn,EMI,Completed,61800,Train
+Ronan Dubois,31,Male,India,India,9,5,4,Himalayan Vista,UPI,Confirmed,120500,Car
+Silas Verma,31,Female,Sri Lanka,India,5,5,0,Amber Heritage Stay,Digital Wallet,Completed,212800,Flight
+Sofia Shepherd,31,Female,India,India,2,2,0,Amber Heritage Stay,EMI,Completed,20500,Train
+Thiago Atkinson,31,Female,India,Indonesia,2,2,0,Bali Lotus Villas,UPI,Completed,151000,Flight
+Zara O'Connor,31,Male,India,India,5,3,2,Rajputana Grand,UPI,Completed,161000,Train
+Zion Castro,31,Female,India,Indonesia,12,10,2,Seminyak Beach Resort,UPI,Cancelled,612600,Flight
+Aisha Gonzalez,32,Male,India,Thailand,9,4,5,Sukhumvit Grand,UPI,Cancelled,417600,Flight
+Alia Martens,32,Male,Canada,India,2,2,0,Pink City Residency,Net Banking,Completed,25600,Flight
+Alina Rahman,32,Female,India,India,1,1,0,Snow Pine Retreat,UPI,Completed,20300,Car
+Anaya Vaughn,32,Male,India,India,13,9,4,Rajputana Grand,Debit Card,Cancelled,167300,Train
+Anjali Darwish,32,Female,Canada,Maldives,5,4,1,Coral Lagoon Resort,Digital Wallet,Completed,630100,Flight
+Arjun Reyes,32,Male,India,India,2,2,0,Snow Pine Retreat,Debit Card,Completed,63400,Flight
+Avani Zhang,32,Female,Singapore,India,7,5,2,Connaught Residency,Debit Card,Completed,154300,Flight
+Ayden Anderson,32,Female,Canada,India,5,3,2,Kashi Heritage Hotel,Credit Card,Completed,65100,Flight
+Ayden Takahashi,32,Female,India,India,5,4,1,Aravalli Palace Inn,Credit Card,Cancelled,138800,Flight
+Bodhi Singh,32,Female,United Kingdom,India,5,5,0,Desert Moon Resort,UPI,Completed,163200,Flight
+Dante Alston,32,Male,India,India,8,5,3,Mughal Garden Hotel,UPI,Completed,171200,Flight
+Elise Yamada,32,Male,Singapore,India,7,5,2,Seabreeze Resort,EMI,Completed,130100,Flight
+Esme Flynn,32,Female,India,India,2,2,0,Coastal Pearl Inn,UPI,Completed,66900,Train
+Esme Saeed,32,Male,India,India,9,5,4,Kashmir Blossom Hotel,Net Banking,Completed,146500,Car
+Felix Bakshi,32,Female,India,India,4,4,0,Mughal Garden Hotel,UPI,Cancelled,53100,Car
+Gemma Darwish,32,Male,India,India,5,4,1,Beas Valley Resort,Debit Card,Completed,164000,Flight
+Gemma Shukla,32,Male,United Arab Emirates,India,2,2,0,Royal Courtyard Udaipur,UPI,Completed,46200,Flight
+Gemma Singh,32,Female,United Arab Emirates,Singapore,6,3,3,Marina Garden Hotel,Digital Wallet,Cancelled,500700,Flight
+Ibrahim Atkinson,32,Female,United Arab Emirates,India,4,4,0,Yoga Valley Inn,EMI,Confirmed,103200,Flight
+Idris Castro,32,Female,Sri Lanka,India,12,9,3,Tea Garden Retreat,Credit Card,Completed,210000,Flight
+Isaac Becker,32,Female,India,Sri Lanka,2,2,0,Cinnamon Garden Stay,Net Banking,Completed,67600,Flight
+Isaac Rahman,32,Male,India,India,5,2,3,Port Blair Retreat,Debit Card,Completed,100300,Car
+Keenan Abe,32,Female,Singapore,United Kingdom,9,5,4,Kensington Park Inn,UPI,Completed,1121100,Flight
+Kenzo Foley,32,Female,India,Nepal,6,3,3,Kathmandu Valley Suites,UPI,Completed,240300,Flight
+Kiara Castro,32,Female,India,India,3,3,0,Mall Road Retreat,EMI,Completed,57300,Train
+Lara Ivanova,32,Male,India,India,5,5,0,Yoga Valley Inn,Credit Card,Completed,186000,Train
+Leila Dubois,32,Female,India,India,1,1,0,Himalayan Vista,Debit Card,Completed,43800,Train
+Liam Delgado,32,Female,India,Maldives,5,4,1,Maldives Pearl Retreat,Net Banking,Completed,538600,Flight
+Lyra Noorani,32,Female,India,India,5,5,0,Ladakh Horizon Hotel,EMI,Confirmed,85500,Train
+Micah Sterling,32,Female,India,India,12,8,4,Marine Drive Residency,Credit Card,Completed,155400,Train
+Milan Ali,32,Female,Canada,India,4,4,0,Western Ghats Inn,UPI,Completed,68300,Flight
+Mira Nakamura,32,Male,Nepal,India,4,3,1,Yoga Valley Inn,UPI,Completed,45300,Flight
+Nia Pereira,32,Male,India,India,1,1,0,Temple View Inn,UPI,Completed,18600,Flight
+Nia Thompson,32,Female,India,Sri Lanka,9,6,3,Cinnamon Garden Stay,UPI,Completed,368600,Flight
+Niko Aziz,32,Male,Nepal,Thailand,5,5,0,Bangkok Garden Suites,EMI,Completed,169900,Flight
+Noah Andrade,32,Male,United Kingdom,Indonesia,1,1,0,Bali Lotus Villas,UPI,Cancelled,72500,Flight
+Nolan Lambert,32,Male,India,Maldives,8,5,3,Maldives Pearl Retreat,UPI,Cancelled,950700,Flight
+Nolan Qureshi,32,Female,India,Maldives,8,4,4,Coral Lagoon Resort,Debit Card,Completed,355500,Flight
+Reina Noorani,32,Male,United States,India,5,5,0,Desert Moon Resort,Credit Card,Completed,152600,Flight
+Remy Schneider,32,Female,Australia,France,6,3,3,Montmartre Boutique Inn,Credit Card,Completed,490600,Flight
+Rohan Yamada,32,Male,Nepal,India,8,4,4,Western Ghats Inn,EMI,Cancelled,298700,Flight
+Silas Duarte,32,Female,India,India,6,6,0,Western Ghats Inn,Debit Card,Confirmed,185600,Flight
+Talia Saeed,32,Male,United Kingdom,India,5,5,0,Ganga Ghat Residency,Debit Card,Completed,71300,Flight
+Yasmin Fontaine,32,Male,India,India,3,3,0,Mountain Pass Inn,EMI,Completed,94800,Flight
+Yasmin Singh,32,Female,India,Maldives,5,5,0,Azure Island Villas,Net Banking,Completed,625900,Flight
+Zane Brown,32,Female,India,Nepal,11,9,2,Himalayan Heritage Hotel,EMI,Confirmed,407900,Flight
+Amara Kowalski,33,Female,India,India,6,6,0,Mountain Pass Inn,Debit Card,Completed,142500,Car
+Anaya Saeed,33,Female,India,India,15,11,4,Gateway Grand,UPI,Completed,570300,Train
+Anjali Banerjee,33,Female,United States,India,5,4,1,Amber Heritage Stay,UPI,Completed,59700,Flight
+Ari Rossi,33,Male,India,India,,3,2,Indus Valley Retreat,EMI,Completed,184100,Flight
+Arjun Foley,33,Female,Singapore,India,2,2,0,Coastal Pearl Inn,Credit Card,Completed,35400,Flight
+Arjun Laurent,33,Female,Malaysia,India,7,5,2,Marine Drive Residency,Digital Wallet,Completed,106300,Flight
+Arjun Mohammed,33,Female,India,India,2,2,0,Heritage Delhi Inn,Net Banking,Completed,51900,Train
+Ava Gonzalez,33,Female,India,India,2,2,0,Ganga Riverside Retreat,EMI,Completed,38900,Train
+Ayden Rahman,33,Female,India,United Kingdom,15,9,6,Thames Central Hotel,EMI,Completed,1639200,Flight
+Ayden Shah,33,Female,Sri Lanka,India,5,5,0,Riverstone Resort,UPI,Completed,125500,Flight
+Chloe Becker,33,Male,India,India,5,5,0,Coral Sands Hotel,Debit Card,Completed,124500,Flight
+Elias Desai,33,Female,India,India,9,5,4,Heritage Delhi Inn,Net Banking,Confirmed,272600,Flight
+Elise Castro,33,Female,United Kingdom,India,2,2,0,Indus Valley Retreat,Digital Wallet,Completed,69900,Flight
+Esme Bakshi,33,Male,India,India,5,4,1,Mughal Garden Hotel,Debit Card,Completed,66500,Train
+Esme Rahman,33,Female,India,India,4,3,1,Chinar Grand,UPI,Completed,55800,Train
+Ethan Abe,33,Male,India,Singapore,5,3,2,Sentosa Bay Resort,Net Banking,Completed,568800,Flight
+Gemma Ocampo,33,Female,India,India,5,4,1,Backwater Grand,Credit Card,Completed,82900,Flight
+Hiba Desai,33,Female,United States,Nepal,5,5,0,Himalayan Heritage Hotel,Credit Card,Completed,198900,Flight
+Ibrahim Bashir,33,Female,India,India,6,4,2,Coral Sands Hotel,EMI,Completed,128800,Flight
+Ivy Noorani,33,Female,United Arab Emirates,India,9,5,4,Aravalli Palace Inn,Debit Card,Completed,297500,Flight
+Jasper Harrington,33,Female,India,India,8,5,3,Lakeview Heritage Hotel,Digital Wallet,Completed,256500,Train
+Jasper Walker,33,Female,United Arab Emirates,India,8,5,3,Mall Road Retreat,Credit Card,Completed,128200,Flight
+Kai Silva,33,Male,India,Singapore,2,2,0,Sentosa Bay Resort,Credit Card,Completed,145900,Flight
+Kairo Patel,33,Male,India,India,8,3,5,Yamuna Heritage Inn,Credit Card,Completed,71900,Train
+Keenan Mendez,33,Female,United Arab Emirates,India,5,4,1,Connaught Residency,Debit Card,Cancelled,84800,Flight
+Kian Andrade,33,Female,India,India,2,2,0,Port Blair Retreat,EMI,Completed,59600,Flight
+Lila Vaughn,33,Male,Singapore,India,5,4,1,Himalayan Vista,EMI,Completed,162100,Flight
+Maaya Nakamura,33,Male,India,United Kingdom,1,1,0,Kensington Park Inn,UPI,Completed,166200,Flight
+Maaya Thompson,33,Male,India,India,6,6,0,Chinar Grand,Digital Wallet,Completed,69900,Car
+Milan Zuniga,33,Female,India,India,4,4,0,Marine Drive Residency,UPI,Completed,97400,Car
+Nina Abdul,33,Female,India,United Arab Emirates,12,6,6,Downtown Dubai Suites,Digital Wallet,Completed,816600,Flight
+Oscar Nguyen,33,Male,India,United Kingdom,4,3,1,Thames Central Hotel,UPI,Pending,314800,Flight
+Priya Shah,33,Male,Canada,India,8,6,2,Ganga Ghat Residency,UPI,Completed,163200,Flight
+Rami Harrington,33,Male,India,India,2,2,0,Dal Lake Residency,UPI,Completed,43900,Car
+Reina Brown,33,Female,Malaysia,India,5,4,1,Misty Valley Retreat,Credit Card,Completed,91700,Flight
+Remy Walker,33,Female,India,United Kingdom,2,2,0,London Heritage Suites,Credit Card,Completed,177800,Flight
+Silas Kumar,33,Female,India,India,4,3,1,Heritage Delhi Inn,Credit Card,Cancelled,66800,Car
+Sofia Kowalski,33,Female,India,India,5,3,2,Coral Sands Hotel,Debit Card,Cancelled,311900,Flight
+Talia Aziz,33,Female,India,Maldives,1,1,0,Coral Lagoon Resort,UPI,Confirmed,60800,Flight
+Tara Rahman,33,Male,India,France,2,2,0,Montmartre Boutique Inn,EMI,Completed,333400,Flight
+Zaina Atkinson,33,Female,United States,Indonesia,4,2,2,Ubud Forest Retreat,UPI,Confirmed,152200,Flight
+Zane Patel,33,Male,India,India,3,3,0,Seabreeze Resort,UPI,Completed,120100,Flight
+Zara Ali,33,Female,Sri Lanka,United Kingdom,4,4,0,London Heritage Suites,Credit Card,Cancelled,358800,Flight
+Alia Khan,34,Female,United Kingdom,India,9,5,4,Cedar Heights,UPI,Completed,106700,Flight
+Amira Patel,34,Male,India,India,6,4,2,Port Blair Retreat,UPI,Completed,178900,Flight
+Andre Andrade,34,Male,India,India,8,8,0,Tea Garden Retreat,UPI,Completed,138400,Car
+Arjun Amini,34,Female,Thailand,India,5,5,0,Seabreeze Resort,UPI,Confirmed,110400,Flight
+Arjun Becker,34,Male,India,India,6,4,2,Capital Grand Hotel,Credit Card,Completed,141300,Car
+Ava Wells,34,Female,India,India,2,2,0,Palm Grove Hotel,UPI,Completed,50800,Flight
+Avani Walker,34,Female,India,India,4,4,0,Indus Valley Retreat,UPI,Completed,117100,Train
+Ayden Romano,34,Male,India,India,4,4,0,Kanchenjunga View Inn,Credit Card,Completed,53100,Train
+Dhruv Bennett,34,Male,India,United Arab Emirates,4,4,0,Desert Pearl Resort,EMI,Completed,320400,Flight
+Elias O'Connor,34,Male,United States,India,5,5,0,Indus Valley Retreat,Net Banking,Confirmed,162300,Flight
+Elina Kassem,34,Male,India,India,1,1,0,Yamuna Heritage Inn,UPI,Completed,26800,Train
+Elise Bakshi,34,Male,India,Sri Lanka,7,5,2,Lanka Pearl Resort,UPI,Completed,289200,Flight
+Elise Ocampo,34,Male,India,India,3,3,0,Chinar Grand,Digital Wallet,Cancelled,42200,Train
+Ibrahim Harron,34,Female,India,India,5,5,0,Himalayan Crown,Credit Card,Confirmed,138300,Train
+Ibrahim Hayes,34,Male,Australia,United Arab Emirates,5,5,0,Desert Pearl Resort,Net Banking,Completed,413700,Flight
+Imani Noorani,34,Male,Nepal,India,8,4,4,Capital Grand Hotel,UPI,Confirmed,120500,Flight
+Isabella Lim,34,Male,Sri Lanka,India,2,2,0,Mughal Garden Hotel,Debit Card,Completed,67400,Flight
+Ivy Dubois,34,Male,India,India,2,2,0,Desert Moon Resort,Credit Card,Completed,31400,Flight
+Keenan Castro,34,Female,India,Thailand,2,2,0,Sukhumvit Grand,Digital Wallet,Completed,98900,Flight
+Kian Lambert,34,Female,Singapore,India,8,5,3,Connaught Residency,Net Banking,Completed,309200,Flight
+Lara Foley,34,Male,India,India,4,4,0,Tea Garden Retreat,Credit Card,Completed,115200,Car
+Luca Abe,34,Male,India,India,3,3,0,Misty Valley Retreat,Debit Card,Completed,37800,Train
+Mateo Morales,34,Female,United Kingdom,India,5,3,2,Fort Kochi Residency,Digital Wallet,Completed,149400,Flight
+Micah Pereira,34,Male,India,India,8,4,4,Palm Grove Hotel,Digital Wallet,Completed,287400,Train
+Naomi Mehta,34,Female,India,India,5,3,2,Kanchenjunga View Inn,Net Banking,Completed,123100,Train
+Nina Ferraro,34,Male,Canada,India,5,5,0,Coral Sands Hotel,EMI,Completed,218200,Flight
+Noah Silva,34,Male,Malaysia,India,5,5,0,Golden Fort Camp,Digital Wallet,Completed,90100,Flight
+Norah Darwish,34,Female,United States,United Kingdom,7,7,0,Thames Central Hotel,Digital Wallet,Completed,589100,Flight
+Norah Zuniga,34,Female,India,United Kingdom,5,4,1,Kensington Park Inn,Credit Card,Completed,471400,Flight
+Priya Castro,34,Female,Nepal,India,2,2,0,Desert Moon Resort,UPI,Completed,69700,Flight
+Saanvi Mohammed,34,Male,India,Maldives,9,6,3,Azure Island Villas,Credit Card,Completed,423000,Flight
+Salma Gonzalez,34,Female,India,India,5,4,1,Himalayan Crown,Net Banking,Completed,136600,Car
+Salma Richardson,34,Male,Canada,United Arab Emirates,2,2,0,Downtown Dubai Suites,Debit Card,Completed,114100,Flight
+Yusuf Patel,34,Female,Singapore,Sri Lanka,8,5,3,Colombo Ocean Hotel,Net Banking,Completed,231200,Flight
+Zaina Nair,34,Female,India,India,14,10,4,Royal Courtyard Udaipur,Digital Wallet,Completed,214700,Flight
+Zaina Ocampo,34,Male,United States,Thailand,5,5,0,Siam Riverside Hotel,UPI,Completed,383300,Flight
+Zayd Qureshi,34,Female,India,India,6,3,3,Cedar Heights,EMI,Completed,93100,Flight
+Zayd Takahashi,34,Female,India,India,1,1,0,Royal Courtyard Udaipur,Debit Card,Confirmed,36000,Car
+Aisha Johansson,36,Female,India,India,2,1,1,Coral Sands Hotel,UPI,Completed,35000,Train
+Aisha Joshi,36,Female,United Arab Emirates,India,1,1,0,Connaught Residency,Net Banking,Cancelled,43900,Flight
+Alia Vaughn,36,Male,India,India,9,6,3,Yamuna Heritage Inn,UPI,Completed,216500,Train
+Amara Chen,36,Female,India,United Arab Emirates,5,5,0,Desert Pearl Resort,EMI,Completed,498200,Flight
+Amara Yamada,36,Female,Canada,India,1,1,0,Riverstone Resort,UPI,Completed,39700,Flight
+Amira Calderon,36,Female,India,India,5,5,0,Mountain Pass Inn,UPI,Completed,141500,Flight
+Andre Dubois,36,Female,India,India,2,2,0,Himalayan Mist Hotel,Digital Wallet,Completed,65400,Train
+Andre Mori,36,Male,India,India,5,5,0,Connaught Residency,EMI,Completed,99700,Flight
+Andre Salgado,36,Male,India,United Arab Emirates,15,11,4,Desert Pearl Resort,Debit Card,Completed,1418300,Flight
+Ayden Noorani,36,Male,India,India,6,3,3,Indus Valley Retreat,Credit Card,Confirmed,204500,Train
+Cruz Persaud,36,Male,India,Sri Lanka,4,4,0,Lanka Pearl Resort,Net Banking,Completed,190200,Flight
+Elina Joshi,36,Male,India,India,5,2,3,Riverstone Resort,EMI,Completed,127800,Train
+Elina Moreira,36,Male,India,India,9,7,2,Tea Hills Resort,Digital Wallet,Completed,276200,Car
+Elina Schneider,36,Male,India,India,5,5,0,Taj View Residency,UPI,Completed,106900,Flight
+Idris Lambert,36,Female,India,India,2,2,0,Kashi Heritage Hotel,Credit Card,Completed,16200,Train
+Idris Saeed,36,Female,India,India,8,4,4,Coral Sands Hotel,UPI,Confirmed,192800,Car
+Imani Barrett,36,Female,India,Maldives,5,4,1,Azure Island Villas,UPI,Confirmed,671300,Flight
+Imani Moreira,36,Male,United States,India,15,10,5,Temple View Inn,Debit Card,Completed,199300,Flight
+Jonah Dubois,36,Female,India,India,5,5,0,Yoga Valley Inn,Credit Card,Completed,112700,Train
+Kiara Romero,36,Male,India,India,2,2,0,Rajputana Grand,UPI,Completed,21800,Car
+Leo Kowalski,36,Female,India,Maldives,9,5,4,Coral Lagoon Resort,Net Banking,Completed,981900,Flight
+Liam Kassem,36,Male,India,United Kingdom,2,2,0,London Heritage Suites,Debit Card,Completed,288100,Flight
+Lila Pereira,36,Female,India,Indonesia,7,5,2,Bali Lotus Villas,Credit Card,Cancelled,369400,Flight
+Lila Silva,36,Male,India,India,3,3,0,Ladakh Horizon Hotel,Net Banking,Completed,137200,Car
+Maaya Dubois,36,Female,India,India,8,4,4,Tea Hills Resort,Credit Card,Cancelled,204800,Train
+Maaya Pereira,36,Male,India,India,6,4,2,Ladakh Horizon Hotel,Credit Card,Completed,167900,Train
+Mei Abe,36,Female,India,India,9,4,5,Riverstone Resort,Debit Card,Completed,64100,Car
+Mei Fontaine,36,Female,Nepal,United Kingdom,2,2,0,Thames Central Hotel,Net Banking,Cancelled,286900,Flight
+Mia Duarte,36,Female,India,India,8,5,3,Kanchenjunga View Inn,Net Banking,Completed,228800,Train
+Mira Castro,36,Male,Australia,India,5,5,0,Port Blair Retreat,Debit Card,Completed,282500,Flight
+Mira Mori,36,Male,India,India,5,5,0,Desert Moon Resort,UPI,Cancelled,119400,Car
+Naomi Barrett,36,Female,India,India,6,4,2,Palm Grove Hotel,UPI,Completed,160100,Train
+Nina Kim,36,Female,Thailand,India,2,2,0,Coral Sands Hotel,Net Banking,Completed,77700,Flight
+Suri Richardson,36,Male,India,India,9,5,4,Ladakh Horizon Hotel,Digital Wallet,Cancelled,281600,Flight
+Thiago Lin,36,Female,Malaysia,India,12,10,2,Mall Road Retreat,Debit Card,Completed,506700,Flight
+Yusuf Mori,36,Female,India,United Kingdom,5,4,1,London Heritage Suites,EMI,Cancelled,754100,Flight
+Zara Joshi,36,Male,India,United Arab Emirates,2,2,0,Marina Skyline Hotel,EMI,Completed,76800,Flight
+Zara Shepherd,36,Male,India,Indonesia,12,6,6,Ubud Forest Retreat,Credit Card,Cancelled,405100,Flight
+Amara Davis,37,Male,Singapore,France,2,2,0,Paris Garden Suites,UPI,Completed,321500,Flight
+Amira Delgado,37,Male,United States,India,2,2,0,Dal Lake Residency,Debit Card,Completed,62700,Flight
+Amira Schneider,37,Male,India,India,1,1,0,Riverstone Resort,Net Banking,Completed,36100,Car
+Arjun Yilmaz,37,Male,India,India,2,2,0,Riverstone Resort,EMI,Confirmed,33600,Train
+Ava Walker,37,Female,India,India,3,3,0,Desert Moon Resort,Net Banking,Completed,77200,Train
+Bodhi Fitzgerald,37,Female,Canada,India,9,9,0,Riverstone Resort,Digital Wallet,Completed,81400,Flight
+Caleb Zhang,37,Male,India,India,5,4,1,Gateway Grand,Digital Wallet,Completed,165800,Car
+Chloe Harron,37,Male,India,Thailand,9,6,3,Bangkok Garden Suites,Credit Card,Completed,280300,Flight
+Dante Rossi,37,Male,India,India,5,5,0,Marine Drive Residency,UPI,Completed,160500,Car
+Elijah Kowalski,37,Male,India,India,8,5,3,Kashi Heritage Hotel,Debit Card,Completed,173100,Car
+Eren Bennett,37,Male,Singapore,India,2,2,0,Heritage Delhi Inn,Net Banking,Completed,83900,Flight
+Gemma Bakshi,37,Male,India,Maldives,8,4,4,Maldives Pearl Retreat,Digital Wallet,Completed,731500,Flight
+Indira Duarte,37,Female,India,India,8,3,5,Himalayan Vista,Net Banking,Completed,102300,Car
+Kian Ferraro,37,Male,India,India,5,4,1,Mall Road Retreat,UPI,Completed,97800,Car
+Leila Nakamura,37,Female,Nepal,India,2,2,0,Gateway Grand,Digital Wallet,Completed,30900,Flight
+Liora Gonzalez,37,Male,India,India,4,3,1,Desert Moon Resort,Debit Card,Completed,140200,Car
+Lyra Ivanova,37,Male,India,Nepal,5,4,1,Thamel Garden Inn,Digital Wallet,Completed,108100,Flight
+Mia Morales,37,Male,Malaysia,India,6,5,1,Pink City Residency,UPI,Completed,103900,Flight
+Nolan Harron,37,Male,India,United Kingdom,2,2,0,Kensington Park Inn,UPI,Completed,285200,Flight
+Norah Persaud,37,Male,Thailand,Nepal,9,4,5,Himalayan Heritage Hotel,UPI,Completed,205800,Flight
+Remy Darwish,37,Male,India,India,13,10,3,Indus Valley Retreat,UPI,Completed,436900,Train
+Silas Anderson,37,Female,Canada,India,6,4,2,Heritage Delhi Inn,Credit Card,Completed,120400,Flight
+Yasmin Bakshi,37,Female,India,India,8,5,3,Ganga Riverside Retreat,UPI,Completed,100400,Flight
+Yusuf Abe,37,Female,Malaysia,India,1,1,0,Himalayan Mist Hotel,Net Banking,Completed,42600,Flight
+Zaina Calderon,37,Female,India,India,5,5,0,Himalayan Crown,EMI,Cancelled,101200,Train
+Zara Andrade,37,Female,India,India,4,4,0,Mountain Pass Inn,UPI,Completed,157100,Flight
+Anaya Johansson,38,Female,India,Maldives,1,1,0,Maldives Pearl Retreat,EMI,Completed,81600,Flight
+Ari Romano,38,Female,India,India,5,5,0,Island Bay Resort,UPI,Cancelled,140300,Train
+Arjun Delgado,38,Female,India,India,9,4,5,Amber Heritage Stay,UPI,Completed,133800,Flight
+Ava Rivera,38,Male,India,India,5,5,0,Golden Fort Camp,Credit Card,Completed,109000,Train
+Farah Moreira,38,Male,India,Sri Lanka,2,2,0,Lanka Pearl Resort,EMI,Completed,76800,Flight
+Freya Stewart,38,Female,India,Maldives,6,3,3,Maldives Pearl Retreat,UPI,Completed,372900,Flight
+Ibrahim Flynn,38,Female,United Arab Emirates,United Kingdom,6,4,2,Kensington Park Inn,UPI,Completed,735000,Flight
+Imani Alston,38,Male,India,India,8,8,0,Tea Garden Retreat,Net Banking,Completed,260800,Train
+Ivy Brown,38,Male,India,France,6,4,2,Montmartre Boutique Inn,Digital Wallet,Confirmed,482600,Flight
+Ivy Yamada,38,Female,India,India,4,4,0,Harbour View Hotel,Digital Wallet,Completed,52800,Train
+Jasper Bashir,38,Female,India,India,11,6,5,Backwater Grand,Digital Wallet,Cancelled,292600,Car
+Kai Foley,38,Male,India,India,4,4,0,Heritage Delhi Inn,UPI,Completed,57000,Train
+Kian Ocampo,38,Female,India,Sri Lanka,6,4,2,Lanka Pearl Resort,UPI,Completed,155200,Flight
+Kian Rossi,38,Male,Canada,India,9,8,1,Amber Heritage Stay,Credit Card,Completed,230300,Flight
+Kiara Kumar,38,Female,Canada,India,9,5,4,Cedar Heights,EMI,Completed,107700,Flight
+Lara Bennett,38,Female,India,United Kingdom,7,4,3,Thames Central Hotel,EMI,Completed,641300,Flight
+Liam Chen,38,Male,India,India,9,5,4,Seabreeze Resort,UPI,Completed,103300,Car
+Luca Ocampo,38,Female,United Arab Emirates,India,5,5,0,Royal Courtyard Udaipur,Credit Card,Completed,213700,Flight
+Mateo Becker,38,Female,Canada,Sri Lanka,9,9,0,Lanka Pearl Resort,UPI,Completed,653400,Flight
+Milan Shepherd,38,Female,Sri Lanka,India,15,10,5,Himalayan Mist Hotel,Debit Card,Completed,220200,Flight
+Nia Bakshi,38,Female,Australia,India,1,1,0,Tea Garden Retreat,EMI,Completed,63000,Flight
+Niko Amini,38,Female,Canada,India,9,6,3,Tea Garden Retreat,Debit Card,Completed,160900,Flight
+Noah Ocampo,38,Male,Malaysia,India,9,7,2,Himalayan Mist Hotel,UPI,Completed,137800,Flight
+Oliver Verma,38,Female,Thailand,India,4,4,0,Aravalli Palace Inn,UPI,Completed,94200,Flight
+Omari Bashir,38,Female,Singapore,India,4,4,0,Port Blair Retreat,Net Banking,Completed,175300,Flight
+Priya Abe,38,Male,India,India,8,8,0,Golden Fort Camp,Credit Card,Completed,271000,Flight
+Rohan Fitzgerald,38,Male,Singapore,Sri Lanka,2,2,0,Colombo Ocean Hotel,Digital Wallet,Completed,76100,Flight
+Ronan Flynn,38,Female,Sri Lanka,India,9,6,3,Snow Pine Retreat,Debit Card,Completed,334600,Flight
+Ronan Kassem,38,Female,India,Maldives,12,9,3,Maldives Pearl Retreat,Debit Card,Completed,1058600,Flight
+Salma Ivanova,38,Female,Thailand,Sri Lanka,8,5,3,Lanka Pearl Resort,Net Banking,Completed,459200,Flight
+Salma Kassem,38,Female,India,India,8,8,0,Temple View Inn,Digital Wallet,Completed,269100,Flight
+Tara Mohammed,38,Male,India,India,5,5,0,Dal Lake Residency,Credit Card,Completed,161400,Train
+Yasmin Ferraro,38,Female,India,India,1,1,0,Marine Drive Residency,Credit Card,Completed,63000,Flight
+Yusuf Bakshi,38,Female,India,United Arab Emirates,1,1,0,Desert Pearl Resort,UPI,Completed,161000,Flight
+Zaina Barrett,38,Male,India,United Kingdom,6,6,0,Kensington Park Inn,Debit Card,Cancelled,709800,Flight
+Zara Harron,38,Female,India,India,3,3,0,Spice Coast Hotel,Digital Wallet,Completed,56500,Flight
+Zara Schneider,38,Female,United States,India,1,1,0,Yoga Valley Inn,Net Banking,Completed,29500,Flight
+Zion Romero,38,Female,Malaysia,India,2,2,0,Connaught Residency,Digital Wallet,Confirmed,70900,Flight
+Alina Chen,39,Female,Nepal,Sri Lanka,5,5,0,Lanka Pearl Resort,UPI,Completed,186000,Flight
+Alina Desai,39,Female,Malaysia,India,1,1,0,Riverstone Resort,Digital Wallet,Completed,15600,Flight
+Avani Sato,39,Female,India,India,5,5,0,Kashi Heritage Hotel,UPI,Completed,38700,Car
+Callum Banerjee,39,Male,India,India,8,5,3,Himalayan Mist Hotel,UPI,Completed,182000,Train
+Cruz Schneider,39,Male,India,India,5,5,0,Coastal Pearl Inn,Debit Card,Completed,127800,Car
+Eren Rahman,39,Female,India,Thailand,5,3,2,Bangkok Garden Suites,Credit Card,Completed,348100,Flight
+Hana Singh,39,Male,India,India,9,5,4,Chinar Grand,Digital Wallet,Completed,253400,Car
+Imani Ali,39,Female,India,Sri Lanka,9,5,4,Lanka Pearl Resort,Digital Wallet,Completed,435900,Flight
+Jonah Harrington,39,Male,India,India,5,5,0,Lakeview Heritage Hotel,UPI,Completed,188200,Train
+Lara Delgado,39,Male,India,India,5,5,0,Aravalli Palace Inn,Debit Card,Completed,195300,Train
+Leo Hussain,39,Male,India,United Arab Emirates,5,4,1,Desert Pearl Resort,Net Banking,Completed,470300,Flight
+Liam Chen,39,Male,India,India,8,6,2,Harbour View Hotel,UPI,Completed,223000,Car
+Maira Zhang,39,Male,India,India,2,2,0,Mountain Pass Inn,Credit Card,Completed,40300,Train
+Malachi Schneider,39,Female,India,India,5,4,1,Ganga Ghat Residency,Net Banking,Completed,67700,Car
+Micah Reyes,39,Female,United Kingdom,India,11,11,0,Lakeview Heritage Hotel,Net Banking,Completed,190500,Flight
+Nina Shukla,39,Male,India,India,4,4,0,Pink City Residency,Debit Card,Completed,135600,Flight
+Oscar Harrington,39,Male,India,India,5,4,1,Himalayan Crown,Digital Wallet,Completed,111500,Flight
+Zara Shukla,39,Female,Thailand,India,2,2,0,Tea Garden Retreat,Debit Card,Completed,76900,Flight
+Zayd Yamada,39,Male,Sri Lanka,Thailand,1,1,0,Bangkok Garden Suites,UPI,Completed,86800,Flight
+Zion Nair,39,Female,India,India,2,2,0,Ladakh Horizon Hotel,Credit Card,Cancelled,22000,Car
+Alia Delgado,40,Male,Sri Lanka,United Kingdom,6,3,3,Kensington Park Inn,UPI,Completed,559800,Flight
+Alina Kassem,40,Female,India,Sri Lanka,5,3,2,Lanka Pearl Resort,Debit Card,Completed,164900,Flight
+Alina Stewart,40,Female,India,United Kingdom,7,6,1,Kensington Park Inn,EMI,Confirmed,588600,Flight
+Amara Walker,40,Male,Sri Lanka,France,5,5,0,Seine Riverside Hotel,EMI,Confirmed,806800,Flight
+Anaya Qureshi,40,Male,India,India,4,4,0,Palm Grove Hotel,Debit Card,Confirmed,40800,Train
+Anjali Davis,40,Male,India,United Arab Emirates,6,6,0,Desert Pearl Resort,Digital Wallet,Completed,246200,Flight
+Arjun Shepherd,40,Female,India,India,5,3,2,Tea Garden Retreat,EMI,Completed,109300,Car
+Ava Lambert,40,Male,India,Singapore,4,4,0,Orchard Central Stay,UPI,Completed,325200,Flight
+Hana Mori,40,Male,India,India,8,8,0,Rajputana Grand,Debit Card,Cancelled,228800,Flight
+Hiba Wells,40,Female,India,India,15,10,5,Chinar Grand,EMI,Completed,375600,Train
+Imani Banerjee,40,Female,India,India,1,1,0,Pink City Residency,Net Banking,Completed,11000,Car
+Indira Romano,40,Male,Nepal,India,2,2,0,Fort Kochi Residency,Credit Card,Completed,45200,Flight
+Indira Yilmaz,40,Female,India,Indonesia,5,5,0,Bali Lotus Villas,EMI,Completed,210800,Flight
+Jasper Aziz,40,Female,India,India,8,5,3,Kashi Heritage Hotel,UPI,Completed,86400,Car
+Kai Romero,40,Male,India,India,11,11,0,Cedar Heights,Debit Card,Completed,227700,Flight
+Kai Takahashi,40,Female,Thailand,India,8,5,3,Yoga Valley Inn,Credit Card,Completed,102900,Flight
+Keenan Fontaine,40,Male,Sri Lanka,India,1,1,0,Himalayan Vista,Credit Card,Completed,23500,Flight
+Kiara Kassem,40,Male,India,India,9,5,4,Beas Valley Resort,Debit Card,Cancelled,180200,Train
+Lara Reyes,40,Female,Sri Lanka,France,14,10,4,Paris Garden Suites,Net Banking,Completed,1319000,Flight
+Leo Dubois,40,Female,India,Indonesia,5,3,2,Seminyak Beach Resort,Net Banking,Confirmed,274400,Flight
+Liora Dubois,40,Male,India,India,4,4,0,Western Ghats Inn,Net Banking,Completed,87800,Train
+Maaya Nakamura,40,Female,India,India,8,4,4,Rajputana Grand,EMI,Completed,139000,Car
+Mia Noorani,40,Male,India,India,1,1,0,Coral Sands Hotel,Net Banking,Completed,22300,Train
+Milan Matthews,40,Female,India,United Arab Emirates,9,5,4,Desert Pearl Resort,UPI,Cancelled,527700,Flight
+Nina Mohammed,40,Female,Singapore,France,5,5,0,Paris Garden Suites,UPI,Completed,859000,Flight
+Oliver Zhang,40,Male,India,India,1,1,0,Taj View Residency,UPI,Completed,44600,Flight
+Priya Bennett,40,Female,Nepal,Indonesia,5,5,0,Ubud Forest Retreat,UPI,Completed,386900,Flight
+Rohan Alston,40,Male,India,India,2,2,0,Dal Lake Residency,UPI,Completed,33500,Train
+Saanvi Foley,40,Female,India,India,6,5,1,Harbour View Hotel,EMI,Completed,203700,Car
+Silas Kumar,40,Male,India,Nepal,11,10,1,Himalayan Heritage Hotel,Net Banking,Completed,523500,Flight
+Talia Yamada,40,Male,India,India,6,4,2,Indus Valley Retreat,Credit Card,Completed,115100,Train
+Zane Rossi,40,Female,India,Maldives,1,1,0,Coral Lagoon Resort,Debit Card,Completed,203400,Flight
+Alia Matthews,41,Male,India,Sri Lanka,11,9,2,Cinnamon Garden Stay,Credit Card,Completed,613100,Flight
+Amir Gonzalez,41,Male,Sri Lanka,India,12,12,0,Coastal Pearl Inn,Credit Card,Confirmed,347500,Flight
+Anaya Calderon,41,Male,India,India,4,2,2,Backwater Grand,Debit Card,Completed,105300,Flight
+Anjali Richardson,41,Female,India,United Kingdom,5,4,1,Kensington Park Inn,UPI,Confirmed,628800,Flight
+Anjali Shukla,41,Female,United States,India,3,3,0,Western Ghats Inn,EMI,Completed,115500,Flight
+Ava Carter,41,Male,United Kingdom,India,5,4,1,Himalayan Vista,Digital Wallet,Completed,146400,Flight
+Avani Hollis,41,Female,India,India,3,3,0,Cedar Heights,Net Banking,Completed,81600,Flight
+Bodhi Gonzalez,41,Male,United Kingdom,India,2,2,0,Coral Sands Hotel,UPI,Completed,46700,Flight
+Bodhi Takahashi,41,Female,India,India,5,3,2,Desert Moon Resort,EMI,Completed,127300,Car
+Dante Takahashi,41,Male,Singapore,Sri Lanka,9,6,3,Cinnamon Garden Stay,EMI,Completed,589300,Flight
+Elias Banerjee,41,Female,Australia,India,4,3,1,Beas Valley Resort,EMI,Completed,73000,Flight
+Eren Qureshi,41,Female,Sri Lanka,United Kingdom,14,10,4,Thames Central Hotel,Net Banking,Completed,1196500,Flight
+Esme Brown,41,Female,India,Indonesia,6,3,3,Seminyak Beach Resort,Net Banking,Completed,283400,Flight
+Esme Johansson,41,Male,India,India,2,2,0,Thar Heritage Hotel,Digital Wallet,Completed,79200,Flight
+Ezra Hussain,41,Female,India,Singapore,5,4,1,Orchard Central Stay,UPI,Completed,433800,Flight
+Hana Fitzgerald,41,Female,India,India,1,1,0,Ganga Ghat Residency,Digital Wallet,Cancelled,14600,Train
+Ibrahim Patel,41,Male,India,Sri Lanka,5,5,0,Colombo Ocean Hotel,UPI,Completed,155600,Flight
+Isaac Mori,41,Female,Malaysia,Sri Lanka,3,3,0,Colombo Ocean Hotel,Credit Card,Completed,221500,Flight
+Jace Hussain,41,Male,Canada,Thailand,3,2,1,Bangkok Garden Suites,Debit Card,Completed,170000,Flight
+Jace Rossi,41,Male,Thailand,Sri Lanka,5,5,0,Colombo Ocean Hotel,UPI,Completed,225700,Flight
+Jonah Kim,41,Female,India,Maldives,10,5,5,Azure Island Villas,Net Banking,Completed,1056200,Flight
+Kenzo Harrington,41,Male,India,India,5,3,2,Aravalli Palace Inn,EMI,Completed,142800,Train
+Kenzo Schneider,41,Male,Canada,Nepal,4,4,0,Thamel Garden Inn,UPI,Completed,212600,Flight
+Kiara Lim,41,Male,United Arab Emirates,France,4,2,2,Montmartre Boutique Inn,EMI,Completed,621600,Flight
+Lila Rahman,41,Male,Malaysia,India,1,1,0,Palm Grove Hotel,Digital Wallet,Confirmed,59500,Flight
+Lyra Ocampo,41,Female,India,India,5,5,0,Gateway Grand,Digital Wallet,Completed,201900,Car
+Maaya Bashir,41,Male,India,Thailand,5,5,0,Siam Riverside Hotel,UPI,Completed,298100,Flight
+Malachi Matthews,41,Female,India,India,5,5,0,Mountain Pass Inn,Digital Wallet,Cancelled,95800,Train
+Mateo Chen,41,Female,India,United Kingdom,2,2,0,Thames Central Hotel,Net Banking,Completed,181500,Flight
+Mia Foley,41,Male,India,Indonesia,5,3,2,Seminyak Beach Resort,Credit Card,Completed,408800,Flight
+Micah Aziz,41,Female,India,Sri Lanka,8,4,4,Lanka Pearl Resort,UPI,Cancelled,399900,Flight
+Micah Mendez,41,Male,India,Maldives,9,6,3,Coral Lagoon Resort,Credit Card,Completed,523200,Flight
+Milan Desai,41,Female,India,Thailand,8,4,4,Siam Riverside Hotel,Digital Wallet,Completed,448200,Flight
+Noah Kowalski,41,Male,India,India,1,1,0,Mountain Pass Inn,Net Banking,Completed,17600,Car
+Noor Banerjee,41,Female,India,Nepal,6,4,2,Kathmandu Valley Suites,UPI,Confirmed,155200,Flight
+Omari O'Connor,41,Male,India,Indonesia,6,3,3,Seminyak Beach Resort,UPI,Completed,318700,Flight
+Omari Romano,41,Male,Nepal,Singapore,4,2,2,Sentosa Bay Resort,Digital Wallet,Completed,258300,Flight
+Oscar Johansson,41,Female,India,India,6,5,1,Desert Moon Resort,Digital Wallet,Pending,168000,Car
+Remy Anderson,41,Male,United Arab Emirates,India,5,5,0,Capital Grand Hotel,UPI,Completed,132800,Flight
+Remy Delgado,41,Female,India,India,5,4,1,Snow Pine Retreat,Credit Card,Completed,61300,Car
+Saanvi Brown,41,Female,United Arab Emirates,Sri Lanka,1,1,0,Colombo Ocean Hotel,Digital Wallet,Completed,87400,Flight
+Silas Flynn,41,Female,India,India,4,4,0,Mall Road Retreat,EMI,Completed,87000,Car
+Talia Duarte,41,Male,India,India,8,8,0,Himalayan Mist Hotel,UPI,Completed,247200,Train
+Zara Laurent,41,Male,India,India,8,5,3,Golden Fort Camp,EMI,Completed,132300,Train
+Zayd Hayes,41,Female,India,India,5,5,0,Kashmir Blossom Hotel,EMI,Completed,119100,Flight
+Zayd Kassem,41,Female,India,India,2,2,0,Taj View Residency,Net Banking,Completed,22700,Train
+Amir Patel,42,Female,India,Thailand,6,5,1,Siam Riverside Hotel,EMI,Completed,284300,Flight
+Amira Banerjee,42,Female,India,India,1,1,0,Heritage Delhi Inn,EMI,Completed,19500,Flight
+Andre Nair,42,Male,India,India,5,5,0,Tea Hills Resort,Credit Card,Completed,47300,Car
+Avani Castro,42,Female,Sri Lanka,India,5,5,0,Beas Valley Resort,UPI,Completed,103600,Flight
+Chloe Sterling,42,Female,India,India,4,4,0,Capital Grand Hotel,Debit Card,Completed,102400,Train
+Cruz Banerjee,42,Male,India,India,11,8,3,Yoga Valley Inn,Net Banking,Completed,215500,Car
+Dante Wells,42,Female,Singapore,India,1,1,0,Taj View Residency,EMI,Completed,46200,Flight
+Dhruv Hussain,42,Male,India,Indonesia,5,5,0,Ubud Forest Retreat,UPI,Cancelled,442900,Flight
+Dhruv Romero,42,Female,India,India,1,1,0,Coastal Pearl Inn,Net Banking,Completed,20400,Flight
+Elijah Kowalski,42,Male,India,India,6,4,2,Tea Hills Resort,UPI,Completed,139800,Flight
+Farah Darwish,42,Male,India,Indonesia,6,6,0,Bali Lotus Villas,Credit Card,Cancelled,404200,Flight
+Farah Kapoor,42,Female,India,India,5,5,0,Himalayan Crown,EMI,Cancelled,154900,Train
+Gemma Moreira,42,Female,India,United Kingdom,5,5,0,London Heritage Suites,Digital Wallet,Completed,402600,Flight
+Hana Shepherd,42,Male,Nepal,India,8,4,4,Mall Road Retreat,Credit Card,Cancelled,173600,Flight
+Hiba Yilmaz,42,Female,India,India,9,5,4,Dal Lake Residency,Credit Card,Completed,237200,Car
+Idris Kapoor,42,Male,India,Indonesia,5,5,0,Ubud Forest Retreat,Credit Card,Completed,371200,Flight
+Imani Hussain,42,Female,India,India,9,6,3,Gateway Grand,Net Banking,Completed,340000,Flight
+Isaac Sato,42,Female,India,India,4,4,0,Ganga Riverside Retreat,UPI,Completed,79400,Train
+Jace Barrett,42,Male,India,India,12,8,4,Port Blair Retreat,Credit Card,Completed,190300,Car
+Kai Amini,42,Female,India,India,8,5,3,Thar Heritage Hotel,EMI,Cancelled,97600,Car
+Keenan Coleman,42,Female,Sri Lanka,India,15,10,5,Seabreeze Resort,UPI,Completed,241300,Flight
+Keenan Hayes,42,Male,India,India,7,5,2,Harbour View Hotel,Debit Card,Completed,88500,Train
+Kenzo Delgado,42,Male,United Kingdom,India,9,5,4,Aravalli Palace Inn,UPI,Completed,218600,Flight
+Kenzo Persaud,42,Male,United Kingdom,Sri Lanka,8,5,3,Lanka Pearl Resort,EMI,Completed,218000,Flight
+Mateo Foley,42,Male,Sri Lanka,United Kingdom,8,4,4,London Heritage Suites,EMI,Completed,574900,Flight
+Milan Kumar,42,Female,India,India,5,3,2,Temple View Inn,EMI,Completed,135900,Train
+Niko Yilmaz,42,Female,Thailand,India,5,5,0,Chinar Grand,UPI,Completed,195800,Flight
+Nina Dupont,42,Female,Canada,India,5,5,0,Island Bay Resort,UPI,Completed,294600,Flight
+Norah Mendez,42,Female,India,Nepal,2,2,0,Kathmandu Valley Suites,UPI,Completed,73500,Flight
+Norah Rahman,42,Male,India,India,1,1,0,Yoga Valley Inn,Debit Card,Completed,11500,Train
+Norah Yilmaz,42,Male,United Arab Emirates,India,2,2,0,Marine Drive Residency,UPI,Completed,37900,Flight
+Oliver Singh,42,Female,India,India,6,3,3,Cedar Heights,Debit Card,Completed,54200,Train
+Omari Noorani,42,Female,India,India,8,4,4,Tea Hills Resort,Credit Card,Completed,98100,Train
+Rohan Ocampo,42,Male,India,Thailand,2,2,0,Siam Riverside Hotel,Net Banking,Cancelled,160200,Flight
+Ronan Khan,42,Male,Nepal,France,1,1,0,Montmartre Boutique Inn,Credit Card,Completed,113600,Flight
+Ronan Noorani,42,Male,Australia,India,3,3,0,Misty Valley Retreat,UPI,Completed,79000,Flight
+Silas Hussain,42,Male,Singapore,India,2,2,0,Mughal Garden Hotel,Credit Card,Completed,21200,Flight
+Sofia Andrade,42,Male,Singapore,India,4,4,0,Himalayan Vista,Digital Wallet,Cancelled,119900,Flight
+Suri Reddy,42,Male,United States,India,5,3,2,Yamuna Heritage Inn,EMI,Confirmed,59600,Flight
+Tara Kim,42,Female,India,India,9,5,4,Tea Garden Retreat,Credit Card,Completed,110000,Car
+Yasmin Vaughn,42,Female,Sri Lanka,Indonesia,4,4,0,Seminyak Beach Resort,Digital Wallet,Completed,311500,Flight
+Yusuf O'Connor,42,Female,India,India,8,4,4,Ladakh Horizon Hotel,Digital Wallet,Cancelled,152300,Car
+Zara Zuniga,42,Male,United States,India,6,4,2,Ladakh Horizon Hotel,Digital Wallet,Completed,245900,Flight
+Alina Johansson,43,Female,Australia,India,1,1,0,Beas Valley Resort,UPI,Completed,20800,Flight
+Amara Kumar,43,Female,India,India,4,2,2,Seabreeze Resort,Digital Wallet,Cancelled,84500,Flight
+Anjali Fontaine,43,Female,United Arab Emirates,India,5,4,1,Thar Heritage Hotel,Digital Wallet,Completed,97200,Flight
+Anjali Lin,43,Male,India,Indonesia,5,3,2,Ubud Forest Retreat,Digital Wallet,Cancelled,294800,Flight
+Ava Kumar,43,Female,United States,Indonesia,15,11,4,Bali Lotus Villas,Debit Card,Completed,1328200,Flight
+Ayden Andrade,43,Female,Australia,India,8,4,4,Mountain Pass Inn,Digital Wallet,Cancelled,190700,Flight
+Caleb Mehta,43,Male,United Kingdom,India,9,5,4,Misty Valley Retreat,Credit Card,Completed,250700,Flight
+Cruz Aziz,43,Male,India,India,2,2,0,Himalayan Crown,Net Banking,Completed,28000,Car
+Cruz Sterling,43,Male,Canada,India,4,4,0,Seabreeze Resort,UPI,Completed,78300,Flight
+Esme Rossi,43,Female,Canada,France,1,1,0,Seine Riverside Hotel,Credit Card,Confirmed,189900,Flight
+Hana Lin,43,Male,Australia,India,2,2,0,Beas Valley Resort,Net Banking,Completed,69800,Flight
+Idris Zuniga,43,Male,India,India,6,4,2,Kashi Heritage Hotel,Digital Wallet,Completed,105600,Car
+Imani Amini,43,Male,India,Singapore,8,4,4,Marina Garden Hotel,Digital Wallet,Completed,588800,Flight
+Ivy Davis,43,Male,India,India,15,10,5,Tea Hills Resort,EMI,Completed,454400,Flight
+Ivy Hussain,43,Female,United States,India,1,1,0,Kanchenjunga View Inn,Debit Card,Completed,43400,Flight
+Ivy Shepherd,43,Female,Nepal,United Arab Emirates,9,7,2,Desert Pearl Resort,Digital Wallet,Completed,364600,Flight
+Jace Shepherd,43,Female,India,Sri Lanka,5,4,1,Lanka Pearl Resort,Credit Card,Completed,332800,Flight
+Keenan Bennett,43,Male,India,Maldives,14,9,5,Coral Lagoon Resort,UPI,Completed,1481700,Flight
+Luca Castro,43,Male,Sri Lanka,India,5,5,0,Snow Pine Retreat,Debit Card,Confirmed,200500,Flight
+Maaya Khan,43,Female,Malaysia,India,2,2,0,Thar Heritage Hotel,Debit Card,Confirmed,30200,Flight
+Maira Carter,43,Female,India,India,7,5,2,Kashi Heritage Hotel,Digital Wallet,Completed,201000,Flight
+Malachi Anderson,43,Female,India,Indonesia,4,4,0,Seminyak Beach Resort,Digital Wallet,Completed,146700,Flight
+Malachi Foley,43,Male,United States,Singapore,8,5,3,Sentosa Bay Resort,UPI,Confirmed,698600,Flight
+Mira Chen,43,Male,India,Indonesia,5,4,1,Bali Lotus Villas,UPI,Completed,481700,Flight
+Nia Fitzgerald,43,Male,India,India,5,5,0,Tea Garden Retreat,Credit Card,Completed,118800,Train
+Noor Anderson,43,Male,United States,India,4,4,0,Aravalli Palace Inn,Net Banking,Completed,65600,Flight
+Noor Zuniga,43,Male,India,India,14,9,5,Rajputana Grand,Debit Card,Confirmed,247900,Train
+Norah Kowalski,43,Female,India,India,4,2,2,Heritage Delhi Inn,UPI,Completed,72800,Train
+Oliver Anderson,43,Male,India,India,5,5,0,Palm Grove Hotel,UPI,Cancelled,119900,Train
+Oliver Coleman,43,Female,India,Maldives,5,5,0,Maldives Pearl Retreat,UPI,Completed,521800,Flight
+Oliver O'Connor,43,Female,India,France,2,2,0,Montmartre Boutique Inn,EMI,Completed,167500,Flight
+Priya Dubois,43,Male,Australia,India,1,1,0,Coral Sands Hotel,Debit Card,Completed,44200,Flight
+Remy Mendez,43,Female,Nepal,India,2,2,0,Kashi Heritage Hotel,Debit Card,Completed,23700,Flight
+Sofia Joshi,43,Male,India,Maldives,5,5,0,Azure Island Villas,EMI,Completed,692400,Flight
+Sofia Patel,43,Male,Canada,Singapore,8,5,3,Marina Garden Hotel,Credit Card,Completed,485000,Flight
+Suri Johansson,43,Male,India,India,4,4,0,Yoga Valley Inn,UPI,Pending,129000,Flight
+Zayd Lim,43,Male,India,United Arab Emirates,4,4,0,Desert Pearl Resort,EMI,Cancelled,281000,Flight
+Zion Harrington,43,Male,United States,India,2,2,0,Gateway Grand,Credit Card,Completed,75000,Flight
+Aisha Joshi,44,Male,Singapore,Maldives,11,5,6,Maldives Pearl Retreat,Net Banking,Completed,1072900,Flight
+Ari Moreira,44,Male,India,India,8,6,2,Indus Valley Retreat,EMI,Completed,85100,Car
+Avani Yilmaz,44,Male,India,India,2,2,0,Aravalli Palace Inn,UPI,Completed,69400,Flight
+Ayden Bakshi,44,Female,Australia,Nepal,4,4,0,Thamel Garden Inn,Debit Card,Completed,185600,Flight
+Chloe Silva,44,Female,India,France,7,5,2,Paris Garden Suites,EMI,Completed,766100,Flight
+Cruz Matthews,44,Male,India,India,2,2,0,Coral Sands Hotel,Digital Wallet,Completed,74800,Flight
+Cruz Nguyen,44,Male,Sri Lanka,United Kingdom,11,9,2,Thames Central Hotel,Digital Wallet,Cancelled,1122200,Flight
+Dhruv Andrade,44,Female,India,United Arab Emirates,6,4,2,Desert Pearl Resort,UPI,Cancelled,510400,Flight
+Elijah Coleman,44,Female,India,India,8,5,3,Capital Grand Hotel,EMI,Cancelled,160400,Flight
+Elise Atkinson,44,Female,India,India,1,1,0,Mall Road Retreat,Credit Card,Completed,46600,Car
+Hana Romano,44,Female,Malaysia,Indonesia,1,1,0,Seminyak Beach Resort,UPI,Completed,65300,Flight
+Hiba Walker,44,Female,Canada,India,5,5,0,Kanchenjunga View Inn,UPI,Completed,132800,Flight
+Idris Andrade,44,Male,Nepal,India,13,9,4,Port Blair Retreat,Debit Card,Completed,350300,Flight
+Ivy Yilmaz,44,Male,India,Indonesia,2,2,0,Seminyak Beach Resort,Debit Card,Completed,101700,Flight
+Kiara Singh,44,Male,India,India,5,2,3,Kashi Heritage Hotel,Digital Wallet,Completed,109700,Flight
+Luca Gonzalez,44,Female,India,India,12,10,2,Gateway Grand,UPI,Completed,151000,Train
+Micah Khan,44,Male,India,United Arab Emirates,2,2,0,Marina Skyline Hotel,UPI,Completed,184700,Flight
+Micah Mori,44,Female,India,India,4,3,1,Himalayan Crown,Debit Card,Completed,61400,Train
+Niko Coleman,44,Female,Sri Lanka,India,4,4,0,Heritage Delhi Inn,UPI,Completed,50700,Flight
+Noor Gonzalez,44,Male,India,Singapore,13,7,6,Marina Garden Hotel,Debit Card,Completed,767200,Flight
+Norah Noorani,44,Female,India,India,1,1,0,Gateway Grand,UPI,Cancelled,36600,Train
+Oscar Romano,44,Female,India,Thailand,2,2,0,Siam Riverside Hotel,UPI,Completed,75400,Flight
+Saanvi Nakamura,44,Female,India,India,13,10,3,Thar Heritage Hotel,Debit Card,Completed,161900,Train
+Thiago Kassem,44,Female,India,India,5,3,2,Seabreeze Resort,Digital Wallet,Completed,184700,Car
+Yasmin Zuniga,44,Female,Canada,Maldives,1,1,0,Maldives Pearl Retreat,EMI,Completed,177500,Flight
+Aisha Singh,45,Female,India,India,7,5,2,Mughal Garden Hotel,EMI,Completed,281300,Train
+Caleb Banerjee,45,Female,Singapore,India,13,10,3,Heritage Delhi Inn,Digital Wallet,Completed,381400,Flight
+Dhruv Richardson,45,Female,India,India,5,5,0,Seabreeze Resort,UPI,Completed,89200,Car
+Elias Nakamura,45,Male,India,Nepal,2,2,0,Himalayan Heritage Hotel,Digital Wallet,Completed,70900,Flight
+Eren Desai,45,Female,Canada,India,7,5,2,Beas Valley Resort,Credit Card,Completed,103800,Flight
+Freya Walker,45,Male,India,Singapore,11,11,0,Orchard Central Stay,Digital Wallet,Completed,927000,Flight
+Gemma Romano,45,Female,United Kingdom,India,6,3,3,Aravalli Palace Inn,Credit Card,Completed,209300,Flight
+Ibrahim Joshi,45,Male,Singapore,India,2,2,0,Heritage Delhi Inn,Digital Wallet,Cancelled,75100,Flight
+Imani Pereira,45,Female,Malaysia,India,4,3,1,Riverstone Resort,Credit Card,Completed,59000,Flight
+Isaac Castro,45,Female,India,India,7,4,3,Temple View Inn,EMI,Completed,89800,Train
+Jasper Johansson,45,Male,India,India,3,3,0,Marine Drive Residency,Digital Wallet,Completed,153200,Car
+Kai Moreira,45,Male,India,India,6,5,1,Golden Fort Camp,Credit Card,Completed,154100,Car
+Lara Castro,45,Male,India,India,4,4,0,Coral Sands Hotel,UPI,Completed,82700,Car
+Leila Kowalski,45,Female,Singapore,Nepal,12,10,2,Kathmandu Valley Suites,Net Banking,Completed,394100,Flight
+Mateo Reyes,45,Female,India,India,4,2,2,Kashmir Blossom Hotel,Net Banking,Pending,62800,Car
+Mia Darwish,45,Female,India,France,5,3,2,Montmartre Boutique Inn,UPI,Confirmed,604400,Flight
+Milan Atkinson,45,Female,United Kingdom,India,6,6,0,Himalayan Crown,UPI,Completed,150000,Flight
+Priya Persaud,45,Male,India,Indonesia,9,5,4,Seminyak Beach Resort,Credit Card,Completed,510600,Flight
+Rami Mendez,45,Female,India,United Arab Emirates,6,5,1,Marina Skyline Hotel,Digital Wallet,Confirmed,227300,Flight
+Rami Silva,45,Male,India,India,5,5,0,Indus Valley Retreat,UPI,Completed,123400,Train
+Reina Chen,45,Male,Canada,India,9,7,2,Pink City Residency,Net Banking,Completed,197600,Flight
+Rohan Dubois,45,Male,Singapore,India,2,2,0,Rajputana Grand,Credit Card,Completed,34800,Flight
+Saanvi Joshi,45,Male,India,Indonesia,11,10,1,Bali Lotus Villas,Credit Card,Completed,648700,Flight
+Zayd Becker,45,Female,India,Thailand,1,1,0,Bangkok Garden Suites,UPI,Completed,96000,Flight
+Zion Yamada,45,Female,India,India,1,1,0,Mughal Garden Hotel,Digital Wallet,Completed,45800,Train
+Aisha Barrett,46,Female,India,India,8,6,2,Tea Hills Resort,UPI,Completed,88100,Car
+Aisha Verma,46,Female,United States,Indonesia,8,5,3,Bali Lotus Villas,EMI,Completed,424700,Flight
+Anjali Lin,46,Female,India,Sri Lanka,6,3,3,Colombo Ocean Hotel,UPI,Completed,257500,Flight
+Bodhi Nakamura,46,Female,India,India,5,3,2,Mountain Pass Inn,Net Banking,Cancelled,106900,Car
+Elina Clarke,46,Female,Sri Lanka,India,15,15,0,Yamuna Heritage Inn,Net Banking,Confirmed,173100,Flight
+Farah Romano,46,Female,Singapore,India,5,4,1,Himalayan Mist Hotel,EMI,Completed,67900,Flight
+Freya Kim,46,Female,United Kingdom,India,1,1,0,Ganga Riverside Retreat,Digital Wallet,Completed,22800,Flight
+Isaac Desai,46,Female,India,India,15,10,5,Snow Pine Retreat,EMI,Cancelled,283400,Flight
+Jonah Kassem,46,Female,India,India,9,9,0,Ganga Ghat Residency,EMI,Completed,225000,Car
+Kiara Lin,46,Female,Thailand,India,13,10,3,Mughal Garden Hotel,Digital Wallet,Completed,229900,Flight
+Leo Persaud,46,Female,Singapore,India,11,9,2,Spice Coast Hotel,UPI,Completed,192100,Flight
+Lila Abdul,46,Female,United Arab Emirates,India,5,5,0,Tea Garden Retreat,UPI,Completed,74400,Flight
+Lila Noorani,46,Male,India,India,8,4,4,Marine Drive Residency,Credit Card,Confirmed,325100,Train
+Luca Abdul,46,Female,Malaysia,India,2,2,0,Taj View Residency,Credit Card,Completed,39100,Flight
+Luca Calderon,46,Male,Malaysia,France,9,9,0,Seine Riverside Hotel,Digital Wallet,Completed,806400,Flight
+Lyra Duarte,46,Female,United Kingdom,India,2,2,0,Harbour View Hotel,Digital Wallet,Completed,69400,Flight
+Maaya Clarke,46,Female,United States,India,2,1,1,Taj View Residency,UPI,Completed,66000,Flight
+Mia Matthews,46,Male,India,Sri Lanka,2,2,0,Colombo Ocean Hotel,Net Banking,Completed,74600,Flight
+Nia Moreira,46,Female,United Arab Emirates,India,2,2,0,Pink City Residency,Net Banking,Completed,51300,Flight
+Norah Mehta,46,Female,India,Maldives,5,5,0,Azure Island Villas,UPI,Completed,533900,Flight
+Oliver Bennett,46,Female,India,India,5,5,0,Fort Kochi Residency,UPI,Completed,155600,Flight
+Oliver Ferraro,46,Male,India,India,7,5,2,Backwater Grand,UPI,Cancelled,171700,Train
+Priya Saeed,46,Male,India,India,1,1,0,Temple View Inn,UPI,Completed,39100,Train
+Zaina Abdul,46,Female,United States,Maldives,5,5,0,Maldives Pearl Retreat,UPI,Completed,447400,Flight
+Zane Shah,46,Male,India,Indonesia,5,4,1,Ubud Forest Retreat,Debit Card,Completed,198900,Flight
+Aisha Lin,47,Female,Nepal,India,8,5,3,Amber Heritage Stay,Net Banking,Completed,185900,Flight
+Amara Sato,47,Female,Nepal,India,15,8,7,Coral Sands Hotel,Net Banking,Confirmed,521700,Flight
+Ava Dupont,47,Male,India,India,14,10,4,Taj View Residency,Debit Card,Completed,248100,Train
+Ayden Laurent,47,Female,Nepal,India,2,2,0,Gateway Grand,Credit Card,Completed,39600,Flight
+Bodhi Ferraro,47,Male,India,India,8,6,2,Indus Valley Retreat,Credit Card,Completed,316300,Car
+Bodhi Saeed,47,Female,Singapore,India,15,11,4,Mall Road Retreat,Credit Card,Cancelled,358900,Flight
+Dante Harron,47,Female,Thailand,Indonesia,2,2,0,Seminyak Beach Resort,Credit Card,Completed,89700,Flight
+Elias Lambert,47,Male,Malaysia,India,5,5,0,Seabreeze Resort,Debit Card,Confirmed,95000,Flight
+Ezra Atkinson,47,Male,India,Sri Lanka,2,2,0,Lanka Pearl Resort,Debit Card,Completed,76000,Flight
+Ezra Hussain,47,Male,India,India,12,8,4,Riverstone Resort,Credit Card,Completed,117400,Train
+Farah Hollis,47,Male,India,India,5,5,0,Aravalli Palace Inn,Digital Wallet,Cancelled,79300,Train
+Farah Nakamura,47,Female,Canada,India,8,5,3,Thar Heritage Hotel,Net Banking,Confirmed,110300,Flight
+Hana Delgado,47,Female,Malaysia,Sri Lanka,14,10,4,Lanka Pearl Resort,Credit Card,Completed,658100,Flight
+Ibrahim Lim,47,Female,India,India,8,6,2,Kashmir Blossom Hotel,Credit Card,Completed,117700,Train
+Jasper Moreira,47,Female,India,India,3,3,0,Fort Kochi Residency,Debit Card,Completed,58200,Flight
+Kairo Schneider,47,Female,India,India,8,5,3,Kashi Heritage Hotel,Credit Card,Completed,211900,Car
+Kiara Desai,47,Male,Sri Lanka,United Kingdom,9,7,2,London Heritage Suites,UPI,Confirmed,1273500,Flight
+Leo Mehta,47,Female,Nepal,India,13,10,3,Yoga Valley Inn,Net Banking,Completed,287700,Flight
+Liam Andrade,47,Female,India,India,9,5,4,Taj View Residency,Net Banking,Completed,159100,Car
+Liam Flynn,47,Male,India,India,8,7,1,Ladakh Horizon Hotel,EMI,Confirmed,254800,Train
+Liora Reyes,47,Male,India,Indonesia,9,5,4,Bali Lotus Villas,UPI,Completed,344000,Flight
+Maaya Kim,47,Female,Nepal,Singapore,4,4,0,Orchard Central Stay,Digital Wallet,Completed,351700,Flight
+Mateo Dupont,47,Female,India,India,1,1,0,Himalayan Vista,Net Banking,Completed,28500,Car
+Oliver Fitzgerald,47,Male,India,India,2,2,0,Golden Fort Camp,Digital Wallet,Completed,81100,Train
+Omari Yilmaz,47,Female,United States,India,9,5,4,Amber Heritage Stay,UPI,Completed,223700,Flight
+Oscar Shukla,47,Female,India,India,12,10,2,Amber Heritage Stay,Net Banking,Cancelled,266900,Flight
+Reina Nakamura,47,Male,India,Singapore,6,3,3,Marina Garden Hotel,Credit Card,Completed,523400,Flight
+Ronan Zhang,47,Female,Malaysia,India,7,5,2,Cedar Heights,Net Banking,Completed,292400,Flight
+Saanvi Noorani,47,Female,Thailand,India,3,2,1,Chinar Grand,UPI,Completed,126100,Flight
+Silas Ocampo,47,Female,India,India,5,5,0,Himalayan Crown,Digital Wallet,Completed,158100,Flight
+Sofia Gonzalez,47,Female,India,India,1,1,0,Seabreeze Resort,UPI,Completed,21100,Car
+Sofia Qureshi,47,Female,India,Nepal,4,4,0,Himalayan Heritage Hotel,Digital Wallet,Completed,131100,Flight
+Tara Nakamura,47,Female,India,India,5,4,1,Rajputana Grand,Net Banking,Completed,162600,Train
+Yasmin Dubois,47,Male,Malaysia,India,6,5,1,Kashi Heritage Hotel,Net Banking,Completed,139600,Flight
+Yasmin Gonzalez,47,Male,India,United Arab Emirates,9,9,0,Desert Pearl Resort,UPI,Cancelled,600500,Flight
+Zara Richardson,47,Male,India,India,8,4,4,Taj View Residency,Credit Card,Completed,185100,Flight
+Zayd Dubois,47,Female,India,India,9,4,5,Himalayan Vista,Digital Wallet,Pending,227600,Flight
+Zion Fitzgerald,47,Female,Nepal,India,5,5,0,Amber Heritage Stay,EMI,Completed,117400,Flight
+Alia Schneider,48,Male,India,India,2,2,0,Fort Kochi Residency,Net Banking,Completed,36600,Car
+Ari Patel,48,Male,United States,United Kingdom,5,5,0,Kensington Park Inn,UPI,Confirmed,449300,Flight
+Arjun Ivanova,48,Male,United Arab Emirates,India,1,1,0,Misty Valley Retreat,EMI,Cancelled,39200,Flight
+Chloe Castro,48,Female,India,Nepal,2,2,0,Kathmandu Valley Suites,EMI,Completed,53200,Flight
+Farah Mehta,48,Female,India,India,12,10,2,Yoga Valley Inn,Digital Wallet,Completed,228800,Car
+Ibrahim Clarke,48,Female,India,India,6,5,1,Himalayan Mist Hotel,UPI,Completed,56100,Car
+Idris Castro,48,Female,Australia,India,4,4,0,Tea Hills Resort,Digital Wallet,Cancelled,83300,Flight
+Isaac Romero,48,Male,India,India,7,5,2,Connaught Residency,Digital Wallet,Completed,77000,Train
+Isaac Verma,48,Male,India,India,11,11,0,Seabreeze Resort,EMI,Cancelled,266300,Train
+Jace Fitzgerald,48,Female,Thailand,India,2,2,0,Ganga Riverside Retreat,EMI,Completed,69000,Flight
+Jace Thompson,48,Female,India,India,13,10,3,Kashi Heritage Hotel,UPI,Cancelled,337500,Flight
+Kian Rossi,48,Male,India,India,6,4,2,Golden Fort Camp,UPI,Completed,217100,Flight
+Liora Nair,48,Female,India,India,6,4,2,Ganga Ghat Residency,Digital Wallet,Completed,182600,Train
+Maaya Salgado,48,Male,India,United Kingdom,5,4,1,Thames Central Hotel,Debit Card,Completed,811000,Flight
+Mei Hussain,48,Female,India,France,11,9,2,Montmartre Boutique Inn,Credit Card,Completed,839700,Flight
+Mei Laurent,48,Female,Singapore,India,5,5,0,Spice Coast Hotel,Net Banking,Completed,145100,Flight
+Naomi Matthews,48,Female,India,India,8,7,1,Harbour View Hotel,Debit Card,Completed,306200,Train
+Omari Hollis,48,Male,Australia,United Arab Emirates,2,2,0,Desert Pearl Resort,Debit Card,Completed,78800,Flight
+Priya Nguyen,48,Female,India,India,5,5,0,Desert Moon Resort,Digital Wallet,Completed,74400,Train
+Remy Shepherd,48,Male,India,India,11,8,3,Connaught Residency,EMI,Completed,316800,Train
+Suri Singh,48,Female,Sri Lanka,India,4,3,1,Himalayan Vista,Credit Card,Completed,86700,Flight
+Thiago Morales,48,Female,Thailand,United Arab Emirates,7,5,2,Downtown Dubai Suites,EMI,Cancelled,491600,Flight
+Thiago Yamada,48,Male,Sri Lanka,Nepal,2,2,0,Thamel Garden Inn,Digital Wallet,Cancelled,84200,Flight
+Zaina Flynn,48,Male,India,United Arab Emirates,3,3,0,Downtown Dubai Suites,Digital Wallet,Completed,294700,Flight
+Zayd Darwish,48,Male,India,India,11,10,1,Backwater Grand,Credit Card,Completed,373600,Flight
+Amara Zhang,49,Male,India,India,3,3,0,Backwater Grand,EMI,Completed,110500,Flight
+Arjun Kassem,49,Female,India,India,13,8,5,Tea Hills Resort,UPI,Completed,300800,Car
+Avani Dupont,49,Female,India,India,8,4,4,Misty Valley Retreat,UPI,Confirmed,179000,Flight
+Callum Mendez,49,Female,Sri Lanka,India,7,6,1,Western Ghats Inn,Credit Card,Completed,170100,Flight
+Cruz Silva,49,Female,India,India,12,10,2,Golden Fort Camp,UPI,Completed,411000,Train
+Elias Schneider,49,Male,India,Sri Lanka,4,4,0,Cinnamon Garden Stay,Digital Wallet,Completed,238300,Flight
+Indira Darwish,49,Male,India,United Kingdom,5,3,2,Thames Central Hotel,UPI,Completed,466300,Flight
+Ivy Ali,49,Male,United Arab Emirates,India,2,2,0,Yoga Valley Inn,EMI,Cancelled,19400,Flight
+Jonah Shah,49,Female,Thailand,Singapore,11,9,2,Sentosa Bay Resort,UPI,Completed,578500,Flight
+Jonah Yamada,49,Female,India,India,1,1,0,Capital Grand Hotel,UPI,Completed,16200,Car
+Leila Wells,49,Female,Sri Lanka,India,5,5,0,Rajputana Grand,UPI,Completed,122100,Flight
+Lila Gonzalez,49,Female,India,India,2,2,0,Tea Hills Resort,Digital Wallet,Completed,22400,Car
+Maira Barrett,49,Male,India,India,5,4,1,Temple View Inn,Credit Card,Completed,140200,Car
+Nia Duarte,49,Female,India,Singapore,12,10,2,Sentosa Bay Resort,Digital Wallet,Completed,882400,Flight
+Nia Dubois,49,Female,Malaysia,India,15,10,5,Royal Courtyard Udaipur,Credit Card,Completed,448900,Flight
+Nia Patel,49,Female,India,India,11,11,0,Spice Coast Hotel,UPI,Cancelled,217700,Train
+Reina Johansson,49,Female,Nepal,India,2,2,0,Ganga Riverside Retreat,UPI,Cancelled,69300,Flight
+Ronan Calderon,49,Female,India,India,2,2,0,Kashi Heritage Hotel,Credit Card,Completed,41200,Train
+Saanvi Verma,49,Female,India,India,4,4,0,Pink City Residency,Credit Card,Cancelled,108700,Car
+Suri Ivanova,49,Female,Malaysia,India,5,5,0,Capital Grand Hotel,Credit Card,Cancelled,167500,Flight
+Tara Khan,49,Female,Nepal,Indonesia,5,4,1,Seminyak Beach Resort,UPI,Completed,302200,Flight
+Yusuf Lim,49,Male,United Kingdom,India,5,3,2,Coral Sands Hotel,Debit Card,Cancelled,269400,Flight
+Yusuf Singh,49,Female,India,India,5,5,0,Gateway Grand,EMI,Completed,244900,Car
+Zane Kim,49,Female,India,India,1,1,0,Western Ghats Inn,EMI,Completed,47600,Train
+Zion Patel,49,Female,India,Sri Lanka,2,2,0,Cinnamon Garden Stay,EMI,Completed,75700,Flight
+Aisha Foley,50,Male,Malaysia,India,2,2,0,Amber Heritage Stay,UPI,Completed,33700,Flight
+Amara Ali,50,Male,United Arab Emirates,India,2,2,0,Misty Valley Retreat,UPI,Cancelled,27900,Flight
+Amir Mendez,50,Male,India,India,4,4,0,Thar Heritage Hotel,Debit Card,Completed,109900,Car
+Andre Duarte,50,Female,United Arab Emirates,India,5,4,1,Ganga Riverside Retreat,UPI,Completed,59700,Flight
+Anjali Hayes,50,Male,India,India,5,4,1,Dal Lake Residency,Net Banking,Confirmed,239000,Car
+Ava Bennett,50,Male,United Arab Emirates,India,8,5,3,Fort Kochi Residency,Credit Card,Completed,143600,Flight
+Ava Zuniga,50,Female,United States,United Arab Emirates,2,2,0,Downtown Dubai Suites,EMI,Completed,144800,Flight
+Ayden Bakshi,50,Female,India,Indonesia,2,2,0,Bali Lotus Villas,Debit Card,Confirmed,125200,Flight
+Ayden Pereira,50,Female,Sri Lanka,India,15,12,3,Golden Fort Camp,UPI,Cancelled,437100,Flight
+Bodhi Lim,50,Female,Singapore,Thailand,7,5,2,Sukhumvit Grand,UPI,Completed,339600,Flight
+Callum Hussain,50,Female,Nepal,India,4,2,2,Cedar Heights,EMI,Completed,93900,Flight
+Dante Hayes,50,Male,India,India,8,5,3,Taj View Residency,EMI,Confirmed,133300,Train
+Dhruv Banerjee,50,Male,United Arab Emirates,India,4,4,0,Royal Courtyard Udaipur,UPI,Completed,119700,Flight
+Isaac Nguyen,50,Female,India,Maldives,12,8,4,Coral Lagoon Resort,Credit Card,Completed,1042600,Flight
+Isabella Coleman,50,Male,India,United Arab Emirates,1,1,0,Downtown Dubai Suites,UPI,Completed,130000,Flight
+Isabella Khan,50,Male,India,United Kingdom,2,2,0,London Heritage Suites,UPI,Cancelled,252400,Flight
+Jace Shukla,50,Male,United States,India,2,1,1,Island Bay Resort,UPI,Completed,86600,Flight
+Kai Shah,50,Male,India,Sri Lanka,7,5,2,Lanka Pearl Resort,Net Banking,Cancelled,442500,Flight
+Keenan Rivera,50,Female,India,India,5,3,2,Snow Pine Retreat,UPI,Completed,114200,Flight
+Kenzo Qureshi,50,Female,India,India,4,3,1,Amber Heritage Stay,UPI,Completed,91000,Car
+Kiara Ocampo,50,Male,India,India,1,1,0,Kashmir Blossom Hotel,Net Banking,Completed,21300,Train
+Lyra Bakshi,50,Female,Sri Lanka,India,5,5,0,Port Blair Retreat,EMI,Completed,151700,Flight
+Lyra Qureshi,50,Female,India,United Arab Emirates,8,4,4,Downtown Dubai Suites,UPI,Completed,752400,Flight
+Mateo Gonzalez,50,Female,India,Maldives,8,5,3,Maldives Pearl Retreat,Credit Card,Cancelled,1125100,Flight
+Mei Alston,50,Female,India,India,15,10,5,Beas Valley Resort,Debit Card,Confirmed,361500,Flight
+Mia Morales,50,Female,Thailand,Singapore,2,2,0,Marina Garden Hotel,Credit Card,Completed,172100,Flight
+Mia Yilmaz,50,Male,Canada,India,9,5,4,Royal Courtyard Udaipur,Digital Wallet,Completed,197100,Flight
+Mira Persaud,50,Male,India,India,2,2,0,Connaught Residency,UPI,Completed,28200,Train
+Nia Delgado,50,Female,India,Thailand,2,2,0,Bangkok Garden Suites,Credit Card,Completed,149200,Flight
+Nina Rossi,50,Female,India,Sri Lanka,7,5,2,Colombo Ocean Hotel,Credit Card,Completed,447900,Flight
+Noor Vaughn,50,Male,Sri Lanka,Indonesia,12,8,4,Ubud Forest Retreat,UPI,Completed,902800,Flight
+Remy Darwish,50,Female,India,Singapore,5,5,0,Marina Garden Hotel,Debit Card,Completed,497600,Flight
+Rohan Fitzgerald,50,Female,India,India,8,5,3,Gateway Grand,EMI,Completed,181400,Flight
+Saanvi Foley,50,Female,India,India,14,11,3,Cedar Heights,UPI,Completed,234300,Train
+Suri Bashir,50,Male,Sri Lanka,India,5,3,2,Tea Hills Resort,EMI,Completed,129600,Flight
+Suri Darwish,50,Male,Singapore,India,5,5,0,Royal Courtyard Udaipur,UPI,Completed,159900,Flight
+Suri Noorani,50,Female,India,Thailand,5,3,2,Siam Riverside Hotel,Debit Card,Completed,265700,Flight
+Yasmin Lin,50,Male,Sri Lanka,India,2,2,0,Gateway Grand,Debit Card,Cancelled,43000,Flight
+Zara Persaud,50,Male,Sri Lanka,India,9,6,3,Misty Valley Retreat,Debit Card,Completed,178800,Flight
+Zayd Reddy,50,Female,Nepal,India,5,5,0,Kanchenjunga View Inn,UPI,Completed,98300,Flight
